@@ -1,879 +1,888 @@
-insert into [words] values ( "男性",  "だんせい", "đàn ông" )
-insert into [words] values ( "女性",  "じょせい", "phụ nữ" )
-insert into [words] values ( "高齢",  "こうれい", "cao tuổi" )
-insert into [words] values ( "年上",  "としうえ", "hơn tuổi" )
-insert into [words] values ( "目上",  "めうえ", "bề trên" )
-insert into [words] values ( "先輩",  "せんぱい", "tiền bối" )
-insert into [words] values ( "後輩",  "こうはい", "hậu bối" )
-insert into [words] values ( "上司",  "じょうし", "cấp trên" )
-insert into [words] values ( "相手",  "あいて", "người đối diện" )
-insert into [words] values ( "知り合い",  "しりあい", "người quen" )
-insert into [words] values ( "友人",  "ゆうじん", "bạn bè" )
-insert into [words] values ( "仲",  "なか", "mối quan hệ" )
-insert into [words] values ( "生年月日",  "せいねんがっぴ", "ngày tháng năm sinh" )
-insert into [words] values ( "誕生",  "たんじょう", "ra đời" )
-insert into [words] values ( "年",  "とし", "niên năm" )
-insert into [words] values ( "出身",  "しゅっしん", "quê quán" )
-insert into [words] values ( "故郷",  "こきょう", "cố hương" )
-insert into [words] values ( "成長",  "せいちょう", "trưởng thành" )
-insert into [words] values ( "成人",  "せいじん", "người trưởng thành" )
-insert into [words] values ( "合格",  "ごうかく", "đỗ đại học" )
-insert into [words] values ( "進学",  "しんがく", "vào đại học" )
-insert into [words] values ( "退学",  "たいがく", "bỏ học" )
-insert into [words] values ( "就職",  "しゅうしょく", "có việc làm" )
-insert into [words] values ( "退職",  "たいしょく", "nghỉ việc" )
-insert into [words] values ( "失業",  "しつぎょう", "thất nghiệp" )
-insert into [words] values ( "残業",  "ざんぎょう", "làm thêm" )
-insert into [words] values ( "生活",  "せいかつ", "cuộc sống" )
-insert into [words] values ( "通勤",  "つうきん", "đi làm" )
-insert into [words] values ( "学歴",  "がくれき", "bằng cấp" )
-insert into [words] values ( "給料",  "きゅうりょう", "tiền lương" )
-insert into [words] values ( "面接",  "めんせつ", "phỏng vấn" )
-insert into [words] values ( "休憩",  "きゅうけい", "nghỉ ngơi" )
-insert into [words] values ( "観光",  "かんこう", "tham quan" )
-insert into [words] values ( "帰国",  "きこく", "về nước" )
-insert into [words] values ( "帰省",  "きせい", "về quê" )
-insert into [words] values ( "帰宅",  "きたく", "về nhà" )
-insert into [words] values ( "参加",  "さんか", "tham gia" )
-insert into [words] values ( "出席",  "しゅっせき", "có mặt" )
-insert into [words] values ( "欠席",  "けっせき", "vắng mặt" )
-insert into [words] values ( "遅刻",  "ちこく", "đến muộn" )
-insert into [words] values ( "化粧",  "けしょう", "trang điểm" )
-insert into [words] values ( "計算",  "けいさん", "tính toán" )
-insert into [words] values ( "計画",  "けいかく", "kế hoạch" )
-insert into [words] values ( "成功",  "せいこう", "thành công" )
-insert into [words] values ( "失敗",  "しっぱい", "thất bại" )
-insert into [words] values ( "準備",  "じゅんび", "chuẩn bị" )
-insert into [words] values ( "整理",  "せいり", "chỉnh sửa" )
-insert into [words] values ( "注文",  "ちゅうもん", "đặt hàng" )
-insert into [words] values ( "貯金",  "ちょきん", "tiết kiệm" )
-insert into [words] values ( "徹夜",  "てつや", "thức xuyên đêm" )
-insert into [words] values ( "引っ越し",  "ひっこし", "chuyển nhà" )
-insert into [words] values ( "身長",  "しんちょう", "chiều cao" )
-insert into [words] values ( "体重",  "たいじゅう", "cân nặng" )
-insert into [words] values ( "けが",  "けが", "vết thương" )
-insert into [words] values ( "会",  "かい", "hội" )
-insert into [words] values ( "趣味",  "しゅみ", "sở thích" )
-insert into [words] values ( "興味",  "きょうみ", "hứng thú" )
-insert into [words] values ( "思い出",  "おもいで", "nhớ lại" )
-insert into [words] values ( "冗談",  "じょうだん", "đùa cợt" )
-insert into [words] values ( "目的",  "もくてき", "mục đích" )
-insert into [words] values ( "約束",  "やくそく", "lời hứa" )
-insert into [words] values ( "おしゃべり",  "おしゃべり", "nói chuyện riêng" )
-insert into [words] values ( "遠慮",  "えんりょ", "ngại ngần" )
-insert into [words] values ( "我慢",  "がまん", "chịu đựng" )
-insert into [words] values ( "目枠",  "めわく", "làm phiền" )
-insert into [words] values ( "希望",  "きぼう", "hi vọng" )
-insert into [words] values ( "夢",  "ゆめ", "giấc mơ" )
-insert into [words] values ( "賛成",  "さんせい", "đồng ý" )
-insert into [words] values ( "反対",  "はんたい", "đối lập" )
-insert into [words] values ( "創造",  "そうぞう", "tưởng tượng" )
-insert into [words] values ( "努力",  "どりょく", "nỗ lực" )
-insert into [words] values ( "太陽",  "たいよう", "mặt trời" )
-insert into [words] values ( "地球",  "ちきゅう", "trái đất" )
-insert into [words] values ( "温度",  "おんど", "nhiệt độ" )
-insert into [words] values ( "湿度",  "しつど", "độ ẩm" )
-insert into [words] values ( "湿気",  "しっけ", "hơi ẩm" )
-insert into [words] values ( "梅雨",  "つゆ", "mùa mưa" )
-insert into [words] values ( "かび",  "かび", "nấm mốc" )
-insert into [words] values ( "暖房",  "だんぼう", "điều hòa ấm" )
-insert into [words] values ( "皮",  "かわ", "da" )
-insert into [words] values ( "館",  "かん", "quán" )
-insert into [words] values ( "画面",  "がめん", "màn hình" )
-insert into [words] values ( "番組",  "ばんぐみ", "chương trình" )
-insert into [words] values ( "記事",  "きじ", "ký sự" )
-insert into [words] values ( "近所",  "きんじょ", "xung quanh" )
-insert into [words] values ( "警察",  "けいさつ", "cảnh sát" )
-insert into [words] values ( "犯人",  "はんにん", "tội phạm" )
-insert into [words] values ( "小銭",  "こぜに", "tiền lẻ" )
-insert into [words] values ( "ごちそう",  "ごちそう", "chiêu đãi" )
-insert into [words] values ( "作者",  "作者", "tác giả" )
-insert into [words] values ( "作品",  "さくひん", "tác phẩm" )
-insert into [words] values ( "制服",  "せいふく", "đồng phục" )
-insert into [words] values ( "洗剤",  "せんざい", "bột giặt" )
-insert into [words] values ( "底",  "そこ", "đáy" )
-insert into [words] values ( "地下",  "ちか", "ngầm" )
-insert into [words] values ( "寺",  "てら", "chùa" )
-insert into [words] values ( "道路",  "どうろ", "đường" )
-insert into [words] values ( "坂",  "さか", "dốc" )
-insert into [words] values ( "煙",  "けむり", "khói" )
-insert into [words] values ( "灰",  "はい", "tàn, tro" )
-insert into [words] values ( "判",  "はん", "con dấu" )
-insert into [words] values ( "名刺",  "めいし", "danh thiếp" )
-insert into [words] values ( "免許",  "めんきょ", "giấy phép" )
-insert into [words] values ( "多く",  "おおく", "nhiều" )
-insert into [words] values ( "前半",  "ぜんはん", "phần đầu" )
-insert into [words] values ( "後半",  "こうはん", "phần cuối" )
-insert into [words] values ( "最高",  "さいこう", "cao nhất" )
-insert into [words] values ( "最低",  "さいてい", "thấp nhất" )
-insert into [words] values ( "最初",  "さいしょ", "đầu tiên" )
-insert into [words] values ( "最後",  "さいご", "cuối cùng" )
-insert into [words] values ( "自動",  "じどう", "tự động" )
-insert into [words] values ( "種類",  "しゅるい", "loại" )
-insert into [words] values ( "性格",  "せいかく", "tính cách" )
-insert into [words] values ( "性質",  "せいしつ", "tính chất" )
-insert into [words] values ( "順番",  "じゅんばん", "thứ tự" )
-insert into [words] values ( "番",  "ばん", "lượt" )
-insert into [words] values ( "方法",  "ほうほう", "phương pháp" )
-insert into [words] values ( "製品",  "せいひん", "sản phẩm" )
-insert into [words] values ( "値上がり",  "ねあがり", "tăng giá" )
-insert into [words] values ( "生",  "なま", "(hải sản) tươi" )
-insert into [words] values ( "節約",  "せつやく", "tiết kiệm" )
-insert into [words] values ( "経営",  "けいえい", "quản lý" )
-insert into [words] values ( "反省",  "はんせい", "tự kiểm tra" )
-insert into [words] values ( "実行",  "じっこう", "thực hành" )
-insert into [words] values ( "進歩",  "しんぽ", "tiến bộ" )
-insert into [words] values ( "変化",  "へんか", "thay hóa" )
-insert into [words] values ( "発達",  "はったつ", "phát triển" )
-insert into [words] values ( "体力",  "たいりょく", "thể lực" )
-insert into [words] values ( "出場",  "しゅつじょう", "tham dự" )
-insert into [words] values ( "活躍",  "かつやく", "hoạt động" )
-insert into [words] values ( "競争",  "きょうそう", "cạnh tranh" )
-insert into [words] values ( "応援",  "おうえん", "cổ vũ" )
-insert into [words] values ( "拍手",  "はくしゅ", "vỗ tay" )
-insert into [words] values ( "人気",  "にんき", "nổi tiếng" )
-insert into [words] values ( "うわさ",  "うわさ", "tin đồn" )
-insert into [words] values ( "情報",  "じょうほう", "thông tin" )
-insert into [words] values ( "交換",  "こうかん", "trao đổi" )
-insert into [words] values ( "流行",  "りゅうこう", "trào lưu" )
-insert into [words] values ( "宣伝",  "せんでん", "tuyên truyền" )
-insert into [words] values ( "広告",  "こうこく", "quảng cáo" )
-insert into [words] values ( "注目",  "ちゅうもく", "chú trọng" )
-insert into [words] values ( "通訳",  "つうやく", "thông dịch" )
-insert into [words] values ( "翻訳",  "ほにゃく", "phiên. Dịch biên dịch" )
-insert into [words] values ( "伝言",  "でんごん", "tin nhắn thoại" )
-insert into [words] values ( "報告",  "ほうこく", "báo cáo" )
-insert into [words] values ( "録画",  "ろくが", "ghi lại" )
-insert into [words] values ( "混雑",  "こんざつ", "hỗn tạp" )
-insert into [words] values ( "渋滞",  "じゅうたい", "tắc đường" )
-insert into [words] values ( "衝突",  "しょうとつ", "xung đột" )
-insert into [words] values ( "被害",  "ひがい", "thiệt hại" )
-insert into [words] values ( "事故",  "じこ", "tai nạn" )
-insert into [words] values ( "事件",  "じけん", "sự kiện" )
-insert into [words] values ( "故障",  "こしょう", "hỏng" )
-insert into [words] values ( "修理",  "しゅうり", "sửa chữa" )
-insert into [words] values ( "停電",  "ていでん", "mất điện" )
-insert into [words] values ( "調子",  "ちょうし", "trạng thái" )
-insert into [words] values ( "緊張",  "きんちょう", "lo lắng" )
-insert into [words] values ( "自身",  "じしん", "tự tin" )
-insert into [words] values ( "自慢",  "じまん", "tự mãn" )
-insert into [words] values ( "感心",  "かんしん", "quan tâm" )
-insert into [words] values ( "感動",  "かんどう", "cảm động" )
-insert into [words] values ( "興奮",  "こうふん", "hưng phấn" )
-insert into [words] values ( "感想",  "かんそう", "cảm tưởng" )
-insert into [words] values ( "予想",  "よそう", "dự đoán" )
-insert into [words] values ( "専門",  "せんもん", "chuyên môn" )
-insert into [words] values ( "研究",  "けんきゅう", "nghiên cứu" )
-insert into [words] values ( "調査",  "ちょうさ", "điều tra" )
-insert into [words] values ( "原因",  "げんいん", "nguyên nhân" )
-insert into [words] values ( "結果",  "けっか", "kết quả" )
-insert into [words] values ( "解決",  "かいけつ", "giải quyết" )
-insert into [words] values ( "確認",  "かくにん", "xác nhận" )
-insert into [words] values ( "利用",  "りよう", "sử dụng" )
-insert into [words] values ( "理解",  "りかい", "lý giải" )
-insert into [words] values ( "発見",  "はっけん", "phát kiến" )
-insert into [words] values ( "発明",  "はつめい", "phát minh" )
-insert into [words] values ( "関係",  "かんけい", "quan hệ" )
-insert into [words] values ( "団体",  "だんたい", "đoàn thể" )
-insert into [words] values ( "選挙",  "せんきょ", "bầu cử" )
-insert into [words] values ( "税金",  "ぜいきん", "thuế" )
-insert into [words] values ( "責任",  "trách", "nhiệm" )
-insert into [words] values ( "書類",  "しょるい", "tài liệu" )
-insert into [words] values ( "題名",  "だいめい", "tiêu đề" )
-insert into [words] values ( "条件",  "じょうけん", "điều kiện" )
-insert into [words] values ( "締め切り",  "しめきり", "hạn cuối" )
-insert into [words] values ( "期間",  "きかん", "thời kỳ" )
-insert into [words] values ( "倍",  "ばい", "lần" )
-insert into [words] values ( "くじ",  "くじ", "xổ thăm" )
-insert into [words] values ( "近道",  "ちかみち", "đường tắt" )
-insert into [words] values ( "中心",  "ちゅうしん", "trung tâm" )
-insert into [words] values ( "辺り",  "あたり", "biên cận" )
-insert into [words] values ( "周り",  "まわり", "chu xung quanh" )
-insert into [words] values ( "穴",  "あな", "lỗ" )
-insert into [words] values ( "列",  "れつ", "hàng" )
-insert into [words] values ( "幅",  "はば", "chiều rộng" )
-insert into [words] values ( "範囲",  "はんい", "phạm vi" )
-insert into [words] values ( "内容",  "ないよう", "nội dung" )
-insert into [words] values ( "中身",  "なかみ", "bên trong" )
-insert into [words] values ( "特徴",  "とくちょう", "đặc trưng" )
-insert into [words] values ( "普通",  "ふつう", "bình thường" )
-insert into [words] values ( "当たり前",  "あたりまえ", "đương nhiên" )
-insert into [words] values ( "偽",  "にせ", "ngụy giả" )
-insert into [words] values ( "別",  "べつ", "biệt khác" )
-insert into [words] values ( "国籍",  "こくせき", "quốc tịch" )
-insert into [words] values ( "東洋",  "とうよう", "phương đông" )
-insert into [words] values ( "西洋",  "せいよう", "phương tây" )
-insert into [words] values ( "国際",  "こくさい", "quốc tế" )
-insert into [words] values ( "自然",  "しぜん", "tự nhiên" )
-insert into [words] values ( "景色",  "けしき", "phong cảnh" )
-insert into [words] values ( "宗教",  "しゅうきょう", "tôn giáo" )
-insert into [words] values ( "愛",  "あい", "yêu yêu" )
-insert into [words] values ( "実は",  "じつは", "thực tế là" )
-insert into [words] values ( "読書",  "どくしょ", "đọc viết" )
-insert into [words] values ( "演奏",  "えんそう", "biểu diễn" )
-insert into [words] values ( "芸術",  "げいじゅつ", "nghệ thuật" )
-insert into [words] values ( "検査",  "けんさ", "kiểm tra" )
-insert into [words] values ( "血液",  "けつえき", "máu" )
-insert into [words] values ( "治療",  "ちりょう", "trị liệu" )
-insert into [words] values ( "症状",  "しょうじょう", "triệu chứng" )
-insert into [words] values ( "予防",  "よぼう", "dự phòng" )
-insert into [words] values ( "栄養",  "えいよう", "dinh dưỡng" )
-insert into [words] values ( "手術",  "しゅじゅつ", "phẫu thuật" )
-insert into [words] values ( "死亡",  "しぼう", "tử vong" )
-insert into [words] values ( "命",  "いのち", "mệnh sinh mạng" )
-insert into [words] values ( "一生",  "いっしょう", "suốt đời" )
-insert into [words] values ( "誤解",  "ごかい", "hiểu nhầm" )
-insert into [words] values ( "後悔",  "こうかい", "hối hận" )
-insert into [words] values ( "訳",  "わけ", "dịch lý do" )
-insert into [words] values ( "態度",  "たいど", "thái độ" )
-insert into [words] values ( "癖",  "くせ", "thói quen" )
-insert into [words] values ( "礼儀",  "れいぎ", "lễ nghĩa" )
-insert into [words] values ( "文句",  "もんく", "phàn nàn" )
-insert into [words] values ( "表情",  "ひょうじょう", "biểu thị" )
-insert into [words] values ( "鏡面",  "ひょうめん", "bề mặt" )
-insert into [words] values ( "禁煙",  "きんえん", "cấm hút thuốc" )
-insert into [words] values ( "禁止",  "きんし", "cấm" )
-insert into [words] values ( "完成",  "かんせい", "hoàn thành" )
-insert into [words] values ( "課題",  "かだい", "chủ đề" )
-insert into [words] values ( "例外",  "れいがい", "ngoại lệ" )
-insert into [words] values ( "基本",  "きほん", "cơ bản" )
-insert into [words] values ( "記録",  "きろく", "ghi âm" )
-insert into [words] values ( "状態",  "じょうたい", "trạng thái" )
-insert into [words] values ( "出来事",  "できごと", "sự kiện" )
-insert into [words] values ( "場面",  "ばめん", "khung trường" )
-insert into [words] values ( "機会",  "きかい", "cơ hội" )
-insert into [words] values ( "距離",  "きょり", "khoảng cách" )
-insert into [words] values ( "提案",  "ていあん", "đề xuất" )
-insert into [words] values ( "やり取り",  "やりとり", "trao việc" )
-insert into [words] values ( "知識",  "ちしき", "kiến thức" )
-insert into [words] values ( "実力",  "じつりょく", "thực lực" )
-insert into [words] values ( "手段",  "しゅだん", "cách thức" )
-insert into [words] values ( "代表",  "だいひょう", "đại biểu" )
-insert into [words] values ( "影響",  "えいきょう", "ảnh hưởng" )
-insert into [words] values ( "効果",  "こうか", "hiệu quả" )
-insert into [words] values ( "印象",  "いんしょう", "ấn tượng" )
-insert into [words] values ( "印",  "しるし", "ấn hiệu" )
-insert into [words] values ( "合図",  "あいず", "ám hiệu" )
-insert into [words] values ( "共通",  "きょうつう", "chung" )
-insert into [words] values ( "協調",  "きょうちょう", "nhấn mạnh" )
-insert into [words] values ( "省略",  "しょうりゃく", "lược bớt" )
-insert into [words] values ( "挑戦",  "ちょうせん", "thử thách" )
-insert into [words] values ( "やる気",  "やるき", "khí động lực" )
-insert into [words] values ( "勇気",  "ゆうき", "dũng khí" )
-insert into [words] values ( "資格",  "しかく", "bằng cách" )
-insert into [words] values ( "申請",  "しんせい", "đăng tuyển" )
-insert into [words] values ( "本人",  "ほんにん", "được nói đến" )
-insert into [words] values ( "契約",  "けいやく", "hợp đồng" )
-insert into [words] values ( "証明",  "しょうめい", "chứng chứng" )
-insert into [words] values ( "変更",  "へんこう", "thay đổi" )
-insert into [words] values ( "保存",  "ほぞん", "bảo tồn" )
-insert into [words] values ( "保護",  "ほご", "bảo vệ" )
-insert into [words] values ( "環境",  "かんきょう", "môi trường" )
-insert into [words] values ( "資源",  "しげん", "tài nguyên" )
-insert into [words] values ( "不足",  "ふそく", "thiếu" )
-insert into [words] values ( "平均",  "へいきん", "trung bình" )
-insert into [words] values ( "割合",  "わりあい", "tỷ lệ" )
-insert into [words] values ( "商売",  "しょうばい", "kinh bán" )
-insert into [words] values ( "商品",  "しょうひん", "sản phẩm" )
-insert into [words] values ( "質",  "しつ", "chất lượng" )
-insert into [words] values ( "型",  "かた", "hình mẫu" )
-insert into [words] values ( "生産",  "せいさん", "sản xuất" )
-insert into [words] values ( "消費",  "しょうひ", "tiêu thụ" )
-insert into [words] values ( "物価",  "ぶっか", "giá giá" )
-insert into [words] values ( "倒産",  "とうさん", "phá sản" )
-insert into [words] values ( "携帯",  "けいたい", "mang theo" )
-insert into [words] values ( "現代",  "げんだい", "hiện tại" )
-insert into [words] values ( "世紀",  "せいき", "thế kỷ" )
-insert into [words] values ( "文化",  "ぶんか", "văn hóa" )
-insert into [words] values ( "都市",  "とし", "thành phố" )
-insert into [words] values ( "地方",  "ちほう", "địa phương" )
-insert into [words] values ( "戦争",  "せんそう", "chiến tranh" )
-insert into [words] values ( "平和",  "へいわ", "hòa bình" )
-insert into [words] values ( "クラスメート",  "クラスメート", "bạn cùng lớp " )
-insert into [words] values ( "グループ",  "グループ", "nhóm " )
-insert into [words] values ( "チーム",  "チーム", "đội " )
-insert into [words] values ( "プロフェッショナル",  "プロフェッショナル", "chuyên nghiệp " )
-insert into [words] values ( "アマチュア",  "アマチュア", "nghiệp dư " )
-insert into [words] values ( "トレーニング",  "トレーニング", "đào tạo " )
-insert into [words] values ( "マッサージ",  "マッサージ", "mát xa " )
-insert into [words] values ( "アドバイス",  "アドバイス", "khuyên " )
-insert into [words] values ( "アイデア・アイディア",  "アイデア・アイディア", "ý tưởng" )
-insert into [words] values ( "トップ",  "トップ", "top" )
-insert into [words] values ( "スピード",  "スピード", "tốc độ" )
-insert into [words] values ( "ラッシュ",  "ラッシュ", "đông đúc" )
-insert into [words] values ( "バイク",  "バイク", "xe máy" )
-insert into [words] values ( "ヘルメット",  "ヘルメット", "mũ bảo hiểm" )
-insert into [words] values ( "コンタクトレンズ",  "コンタクトレンズ", "kính áp tròng" )
-insert into [words] values ( "ガラス",  "ガラス", "kính" )
-insert into [words] values ( "プラスチック",  "プラスチック", "nhựa" )
-insert into [words] values ( "ベランダ",  "ベランダ", "ban công" )
-insert into [words] values ( "ペット",  "ペット", "thú cưng" )
-insert into [words] values ( "ベンチ",  "ベンチ", "ghế bành" )
-insert into [words] values ( "デザイン",  "デザイン", "thiết kế" )
-insert into [words] values ( "バーゲンセール",  "バーゲンセール", "sale" )
-insert into [words] values ( "パート",  "パート", "làm thêm" )
-insert into [words] values ( "コンビニエンスストア",  "コンビニエンスストア", "cửa hàng tiện ích" )
-insert into [words] values ( "レジ",  "レジ", "máy tính tiền" )
-insert into [words] values ( "レシート",  "レシート", "hóa đơn" )
-insert into [words] values ( "インスタント",  "インスタント", "ăn liền" )
-insert into [words] values ( "ファストフード",  "ファストフード", "đồ ăn nhanh" )
-insert into [words] values ( "フルーツ",  "フルーツ", "trái cây" )
-insert into [words] values ( "デザート",  "デザート", "tráng miệng" )
-insert into [words] values ( "インターネット",  "インターネット", "internet" )
-insert into [words] values ( "チャイム",  "チャイム", "chuông" )
-insert into [words] values ( "アナウンス",  "アナウンス", "thông báo" )
-insert into [words] values ( "メッセージ",  "メッセージ", "tin nhắn" )
-insert into [words] values ( "パンフレット",  "パンフレット", "tờ rơi" )
-insert into [words] values ( "カード",  "カード", "card" )
-insert into [words] values ( "インタビュー",  "インタビュー", "phỏng vấn" )
-insert into [words] values ( "アンケート",  "アンケート", "tờ câu hỏi" )
-insert into [words] values ( "データ",  "データ", "dữ liệu" )
-insert into [words] values ( "パーセント",  "パーセント", "phần trăm" )
-insert into [words] values ( "パートナ",  "パートナー", "đối tác" )
-insert into [words] values ( "リーダー",  "リーダー", "lãnh đạo" )
-insert into [words] values ( "ボランティア",  "ボランティア", "tình nguyện" )
-insert into [words] values ( "コミュニケーション",  "コミュニケーション", "giao tiếp" )
-insert into [words] values ( "ユーモア",  "ユーモア", "hài" )
-insert into [words] values ( "ショック",  "ショック", "sốc" )
-insert into [words] values ( "ストレス",  "ストレス", "căng" )
-insert into [words] values ( "バランス",  "バランス", "cân bằng" )
-insert into [words] values ( "レベル",  "レベル", "trình" )
-insert into [words] values ( "アップ",  "アップ", "tăng lên" )
-insert into [words] values ( "ダウン",  "ダウン", "giảm xuống" )
-insert into [words] values ( "プラス",  "プラス", "phép động tích cực" )
-insert into [words] values ( "マイナス",  "マイナス", "phép động tiêu cực" )
-insert into [words] values ( "イメージ",  "イメージ", "hình ảnh" )
-insert into [words] values ( "コンテスト",  "コンテスト", "cuộc thi" )
-insert into [words] values ( "マスコミ",  "マスコミ", "thông tin truyền thông" )
-insert into [words] values ( "プライバシー",  "プライバシー", "cá tư" )
-insert into [words] values ( "オフィス",  "オフィス", "văn phòng" )
-insert into [words] values ( "ルール",  "ルール", "luật lệ" )
-insert into [words] values ( "マナー",  "マナー", "tác phong" )
-insert into [words] values ( "ミス",  "ミス", "lỗi" )
-insert into [words] values ( "スケジュール",  "スケジュール", "hoạch" )
-insert into [words] values ( "タイトル",  "タイトル", "tiêu đề" )
-insert into [words] values ( "テーマ",  "テーマ", "chủ đề" )
-insert into [words] values ( "ストーリー",  "ストーリー", "câu chuyện" )
-insert into [words] values ( "ヒット",  "ヒット", "nổi tiếng" )
-insert into [words] values ( "ブランド",  "ブランド", "nhãn hiệu" )
-insert into [words] values ( "レンタル",  "レンタル", "thuê" )
-insert into [words] values ( "リサイクル",  "リサイクル", "tái chế" )
-insert into [words] values ( "ラベル",  "ラベル", "nhãn" )
-insert into [words] values ( "タイプ",  "タイプ", "loại" )
-insert into [words] values ( "スタイル",  "スタイル", "kiểu dáng" )
-insert into [words] values ( "セット",  "セット", "cài" )
-insert into [words] values ( "ウイルス",  "ウイルス", "virus" )
-insert into [words] values ( "ロボット",  "ロボット", "robot" )
-insert into [words] values ( "エネルギー",  "エネルギー", "năng lượng" )
-insert into [words] values ( "デジタル",  "デジタル", "kỹ thuật số" )
-insert into [words] values ( "マイク",  "マイク", "âm" )
-insert into [words] values ( "ブレーキ",  "ブレーキ", "phanh" )
-insert into [words] values ( "ペンキ",  "ペンキ", "sơn" )
-insert into [words] values ( "幸せな",  "しあわせな", "hạnh phúc " )
-insert into [words] values ( "得意な",  "とくいな"," " )
-insert into [words] values ( "苦手な",  "にがてな"," " )
-insert into [words] values ( "熱心な",  "ねっしんな", "chăm chỉ " )
-insert into [words] values ( "夢中な",  "むちゅうな", "chú tâm " )
-insert into [words] values ( "退屈な",  "たいくつな", "chán " )
-insert into [words] values ( "健康な",  "けんこうな", "khỏe khoắn " )
-insert into [words] values ( "苦しい",  "くるしい", "cực khổ " )
-insert into [words] values ( "平気な",  "へいきな", "bình thản" )
-insert into [words] values ( "悔しい",  "くやしい", "cay cú" )
-insert into [words] values ( "うらやましい",  "うらやましい", "ghen tỵ" )
-insert into [words] values ( "かゆい",  "かゆい", "ngứa" )
-insert into [words] values ( "おとなしい",  "おとなしい", "trầm lặng" )
-insert into [words] values ( "我慢強い",  "がまんづよい", "chịu đựng giỏi" )
-insert into [words] values ( "正直な",  "しょうじきな", "trung thực" )
-insert into [words] values ( "けちな",  "けちな", "kẹt xỉ" )
-insert into [words] values ( "我儘な",  "ích", "kỷ" )
-insert into [words] values ( "積極的な",  "せっきょくてきな", "tích cực" )
-insert into [words] values ( "消極的な",  "しょうきょくてきな", "tiêu cực" )
-insert into [words] values ( "満足な",  "まんぞくな", "thỏa mãn" )
-insert into [words] values ( "不満な",  "ふまんな", "bất mãn" )
-insert into [words] values ( "不安な",  "ふあんな", "bất an" )
-insert into [words] values ( "大変な",  "たいへんな", "tồi tệ" )
-insert into [words] values ( "無理な",  "むりな", "vô lý" )
-insert into [words] values ( "不注意な",  "ふちゅういな", "không chú ý" )
-insert into [words] values ( "楽な",  "らくな", "lạc thoải mái" )
-insert into [words] values ( "面倒な",  "めんどうな", "phiền phức" )
-insert into [words] values ( "失礼な",  "しつれいな", "thất lễ" )
-insert into [words] values ( "当然な",  "とうぜんな", "đương nhiên" )
-insert into [words] values ( "意外な",  "いがいな", "không ngờ đến" )
-insert into [words] values ( "結構な",  "けっこうな", "khá là" )
-insert into [words] values ( "派手な",  "はでな", "lòe loẹt" )
-insert into [words] values ( "地味な",  "じみな", "giản dị" )
-insert into [words] values ( "おしゃれな",  "おしゃれな", "thời" )
-insert into [words] values ( "変な",  "へんな", "biến lạ" )
-insert into [words] values ( "不思議な",  "ふしぎな", "thần bí" )
-insert into [words] values ( "ましな",  "ましな", "tốt lên" )
-insert into [words] values ( "むだな",  "むだな", "lãng phí" )
-insert into [words] values ( "自由な",  "じゆうな", "tự do" )
-insert into [words] values ( "不自由な",  "ふじゆうな", "không tự do" )
-insert into [words] values ( "濃い",  "こい", "nồng" )
-insert into [words] values ( "薄い",  "うすい", "mỏng, nhạt" )
-insert into [words] values ( "酸っぱい",  "すっぱい", "chua" )
-insert into [words] values ( "臭い",  "くさい", "thối" )
-insert into [words] values ( "おかしい",  "おかしい", "lạ" )
-insert into [words] values ( "かっこいい",  "かっこいい", "bảnh bao" )
-insert into [words] values ( "うまい",  "うまい", "ngon" )
-insert into [words] values ( "親しい",  "したしい", "thân thiết" )
-insert into [words] values ( "詳しい",  "くわしい", "chi tiết" )
-insert into [words] values ( "細かい",  "こまかい", "cặn kẽ, tỉ mỉ" )
-insert into [words] values ( "浅い",  "あさい", "nông" )
-insert into [words] values ( "固い・硬い",  "かたい", "cứng" )
-insert into [words] values ( "ぬるい",  "ぬるい", "nguội" )
-insert into [words] values ( "まぶしい",  "まぶしい", "chói" )
-insert into [words] values ( "蒸し暑い",  "むしあつい", "nóng ẩm" )
-insert into [words] values ( "清潔な",  "せいけつな", "sạch" )
-insert into [words] values ( "新鮮な",  "しんせんな", "tươi" )
-insert into [words] values ( "豊かな",  "ゆたかな", "giàu có" )
-insert into [words] values ( "立派な",  "りっぱな", "lập siêu" )
-insert into [words] values ( "正確な",  "せいかくな", "chính xác" )
-insert into [words] values ( "確かな",  "たしかな", "đích thực" )
-insert into [words] values ( "重要な",  "じゅうような", "quan trọng" )
-insert into [words] values ( "必要な",  "ひつような", "cần thiết" )
-insert into [words] values ( "もったいない",  "もったいない", "lãng phí" )
-insert into [words] values ( "すごい",  "すごい", "tuyệt" )
-insert into [words] values ( "ひどい",  "ひどい", "tồi" )
-insert into [words] values ( "激しい",  "はげしい", "mãnh liệt" )
-insert into [words] values ( "そっくりな",  "そっくりな", "giống" )
-insert into [words] values ( "急な",  "きゅうな", "đột nhiên" )
-insert into [words] values ( "敵とな",  "てきとな", "phù hợp" )
-insert into [words] values ( "特別な",  "とくべつな", "đặc biệt" )
-insert into [words] values ( "完全な",  "かんぜんな", "toàn bộ" )
-insert into [words] values ( "盛んな",  "さかんな", "thịnh vượng" )
-insert into [words] values ( "様々な",  "さまざまな", "đa đạng" )
-insert into [words] values ( "可能な",  "かのうな", "khả thi" )
-insert into [words] values ( "不可能な",  "ふかのうな", "bất khả thi" )
-insert into [words] values ( "基本的な",  "きほんてきな", "cơ bản" )
-insert into [words] values ( "国際的な",  "こくさいてきな", "tính quốc tế" )
-insert into [words] values ( "ばらばらな",  "ばらばらな", "tung rẽ" )
-insert into [words] values ( "ぼろぼろな",  "ぼろぼろな", "rách tua" )
-insert into [words] values ( "大変に",  "たいへんに", "khủng nhiều " )
-insert into [words] values ( "ほとんど",  "ほとんど", "gần như hoàn toàn " )
-insert into [words] values ( "大体",  "だいたい", "phần khoảng " )
-insert into [words] values ( "かなり",  "かなり", "khá " )
-insert into [words] values ( "ずいぶん",  "ずいぶん", "đáng kể " )
-insert into [words] values ( "けっこう",  "けっこう", "rất " )
-insert into [words] values ( "大分",  "ずいぶん", "chủ " )
-insert into [words] values ( "もっと",  "もっと", "hơn nữa" )
-insert into [words] values ( "しっかり",  "しっかり", "toàn bộ" )
-insert into [words] values ( "いっぱい",  "いっぱい", "đầy" )
-insert into [words] values ( "ぎりぎり",  "ぎりぎり", "nút" )
-insert into [words] values ( "ぴったり",  "ぴったり", "vừa" )
-insert into [words] values ( "たいてい",  "たいてい", "đại" )
-insert into [words] values ( "同時に",  "どうじに", "cùng lúc" )
-insert into [words] values ( "前もって",  "まえもって", "tiền trước" )
-insert into [words] values ( "すぐに",  "すぐに", "ngay lập tức" )
-insert into [words] values ( "もうすぐ",  "もうすぐ", "sắp" )
-insert into [words] values ( "突然",  "とつぜん", "đột nhiên" )
-insert into [words] values ( "あっという間に",  "あっというまに", "loáng một cái" )
-insert into [words] values ( "いつの間にか",  "いつのまにか", "lúc nào không biết" )
-insert into [words] values ( "しばらく",  "しばらく", "một chút" )
-insert into [words] values ( "ずっと",  "ずっと", "nhất định" )
-insert into [words] values ( "相変わらず",  "あいかわらず", "như mọi khi" )
-insert into [words] values ( "次々に",  "つぎつぎに", "lần lượt" )
-insert into [words] values ( "どんどん",  "どんどん", "dần dần" )
-insert into [words] values ( "ますます",  "ますます", "càng ngày càng" )
-insert into [words] values ( "やっと",  "やっと", "cuối đủ" )
-insert into [words] values ( "とうとう",  "とうとう", "sau tất cả" )
-insert into [words] values ( "ついに",  "ついに", "cuối cùng" )
-insert into [words] values ( "もちろん",  "もちろん", "tất nhiên" )
-insert into [words] values ( "やはり",  "やはり", "như dự tính" )
-insert into [words] values ( "きっと",  "きっと", "nhất định" )
-insert into [words] values ( "ぜひ",  "ぜひ", "bằng mọi (muốn)" )
-insert into [words] values ( "なるべく",  "なるべく", "càng nhiều càng tốt" )
-insert into [words] values ( "案外",  "あんがい", "không ngờ đến" )
-insert into [words] values ( "もしかすると・もしかしたら・もしかして",  "có", "lẽ" )
-insert into [words] values ( "まさか",  "まさか", "không thể" )
-insert into [words] values ( "うっかり",  "うっかり", "ngơ để ý" )
-insert into [words] values ( "つい",  "つい", "vô" )
-insert into [words] values ( "思わず",  "おもわず", "tư không ngờ đến" )
-insert into [words] values ( "ほっと",  "ほっと", "yên tâm" )
-insert into [words] values ( "いらいら",  "いらいら", "khó giận" )
-insert into [words] values ( "のんびり",  "のんびり", "tận hưởng" )
-insert into [words] values ( "ぐっすり",  "ぐっすり", "say" )
-insert into [words] values ( "きちんと",  "きちんと", "ngay ngắn" )
-insert into [words] values ( "しっかり",  "しっかり", "kiên tin cậy" )
-insert into [words] values ( "はっきり",  "はっきり", "rõ ràng" )
-insert into [words] values ( "じっと",  "じっと", "kiên chằm" )
-insert into [words] values ( "そっと",  "そっと", "nhẹ lặng" )
-insert into [words] values ( "別々に",  "べつべつに", "riêng biệt" )
-insert into [words] values ( "それぞれ",  "それぞれ", "lần ứng" )
-insert into [words] values ( "互いに",  "たがいに", "lẫn nhau" )
-insert into [words] values ( "直接",  "ちょくせつ", "trực tiếp" )
-insert into [words] values ( "本当に",  "ほんとうに", "thật thực" )
-insert into [words] values ( "必ず",  "かならず", "chắc chắn" )
-insert into [words] values ( "絶対に",  "ぜったいに", "chắc chắn rồi" )
-insert into [words] values ( "特に",  "とくに", "đặc biệt là" )
-insert into [words] values ( "ただ",  "ただ", "chỉ" )
-insert into [words] values ( "少なくとも",  "すくなくとも", "ít nhất" )
-insert into [words] values ( "決して",  "けっして", "không bao giờ" )
-insert into [words] values ( "少しも",  "すこしも", "một chút" )
-insert into [words] values ( "ちっとも",  "ちっとも", "(không) tí gì" )
-insert into [words] values ( "全く",  "まったく", "hoàn toàn (không)" )
-insert into [words] values ( "とても",  "とても", "rất" )
-insert into [words] values ( "どんなに",  "どんなに", "thế nào cũng" )
-insert into [words] values ( "どうしても",  "どうしても", "kiểu gì cũng" )
-insert into [words] values ( "まるで",  "まるで", "như là" )
-insert into [words] values ( "一体",  "いったい", "nói chung" )
-insert into [words] values ( "別に",  "べつに", "đặc biệt" )
-insert into [words] values ( "たった",  "たった", "chỉ" )
-insert into [words] values ( "ほんの",  "ほんの", "một chút" )
-insert into [words] values ( "それで",  "それで", "thế thì" )
-insert into [words] values ( "そこで",  "そこで", "tiếp theo" )
-insert into [words] values ( "そのうえ",  "そのうえ", "hơn nữa" )
-insert into [words] values ( "また",  "また", "nữa" )
-insert into [words] values ( "または",  "または", "hoặc" )
-insert into [words] values ( "それとも",  "それとも", "hoặc" )
-insert into [words] values ( "つまり",  "つまり", "nói cách khác" )
-insert into [words] values ( "渇く",  "かわく", "khát khát " )
-insert into [words] values ( "嗅ぐ",  "かぐ", "xúy ngửi " )
-insert into [words] values ( "叩く",  "たたく", "khấu " )
-insert into [words] values ( "殴る",  "なぐる", "ẩu đấm " )
-insert into [words] values ( "ける",  "ける", "đá " )
-insert into [words] values ( "抱く",  "だく", "bão ôm " )
-insert into [words] values ( "倒れる",  "たおれる", "đảo đổ " )
-insert into [words] values ( "倒す",  "たおす", "đảo làm đổ " )
-insert into [words] values ( "起きる",  "おきる", "thức dậy" )
-insert into [words] values ( "起こす",  "おこす", "đánh thức" )
-insert into [words] values ( "尋ねる",  "たずねる", "hỏi" )
-insert into [words] values ( "呼ぶ",  "よぶ", "gọi" )
-insert into [words] values ( "叫ぶ",  "さけぶ", "gào to" )
-insert into [words] values ( "黙る",  "だまる", "im lặng" )
-insert into [words] values ( "飼う",  "かう", "nuôi" )
-insert into [words] values ( "数える",  "かぞえる", "đếm" )
-insert into [words] values ( "乾く",  "かわく", "khô" )
-insert into [words] values ( "乾かす",  "かわかす", "làm khô" )
-insert into [words] values ( "畳む",  "たたむ", "gấp" )
-insert into [words] values ( "誘う",  "さそう", "mời" )
-insert into [words] values ( "おごる",  "おごる", "chiêu đãi" )
-insert into [words] values ( "預かる",  "あずかる", "chăm sóc" )
-insert into [words] values ( "預ける",  "あずける", "gửi" )
-insert into [words] values ( "決まる",  "きまる", "được quyết định" )
-insert into [words] values ( "決める",  "きめる", "quyết định" )
-insert into [words] values ( "写る",  "うつる", "chụp được" )
-insert into [words] values ( "写す",  "うつす", "chụp" )
-insert into [words] values ( "思い出す",  "おもいだす", "tự nhớ lại" )
-insert into [words] values ( "教わる",  "おそわる", "được dạy" )
-insert into [words] values ( "申し込む",  "もうしこむ", "đăng ký" )
-insert into [words] values ( "断る",  "ことわる", "từ chối" )
-insert into [words] values ( "見つかる",  "みつかる", "được tìm thấy" )
-insert into [words] values ( "見つける",  "みつける", "tìm thấy" )
-insert into [words] values ( "捕まる",  "つかまる", "bị bắt" )
-insert into [words] values ( "捕まえる",  "つかまえる", "bắt" )
-insert into [words] values ( "乗る",  "のる", "leo lên" )
-insert into [words] values ( "乗せる",  "のせる", "cho lên" )
-insert into [words] values ( "降りる",  "おりる", "xuống" )
-insert into [words] values ( "降ろす",  "おろす", "cho xuống" )
-insert into [words] values ( "直る",  "なおる", "được sửa" )
-insert into [words] values ( "直す",  "なおす", "sửa" )
-insert into [words] values ( "治る",  "なおる", "hồi phục" )
-insert into [words] values ( "治す",  "なおす", "cứu chữa" )
-insert into [words] values ( "亡くなる",  "なくなる", "chết" )
-insert into [words] values ( "亡くす",  "なくす", "mất" )
-insert into [words] values ( "生まれる",  "うまれる", "được sinh ra" )
-insert into [words] values ( "生む",  "うむ", "sinh" )
-insert into [words] values ( "出会う",  "であう", "gặp (ngẫu nhiên)" )
-insert into [words] values ( "訪ねる",  "たずねる", "thăm" )
-insert into [words] values ( "付き合う",  "つきあう", "hẹn tiếp" )
-insert into [words] values ( "効く",  "きく", "có hiệu quả" )
-insert into [words] values ( "はやる",  "はやる", "phổ biến" )
-insert into [words] values ( "経つ",  "たつ", "qua" )
-insert into [words] values ( "間に合う",  "まにあう", "làm cho kịp giờ" )
-insert into [words] values ( "間に合わせる",  "まにあわせる", "kịp giờ" )
-insert into [words] values ( "通う",  "かよう", "đi" )
-insert into [words] values ( "込む",  "こむ", "đông" )
-insert into [words] values ( "すれ違う",  "すれちあう", "vi" )
-insert into [words] values ( "掛かる",  "かかる", "được bao phủ" )
-insert into [words] values ( "掛ける",  "かける", "bao phủ" )
-insert into [words] values ( "動く",  "うごく", "hoạt động" )
-insert into [words] values ( "動かす",  "うごかす", "di chuyển" )
-insert into [words] values ( "離れる",  "はなれる", "tránh xa" )
-insert into [words] values ( "離す",  "はなす", "tách ra" )
-insert into [words] values ( "ぶつかる",  "ぶつかる", "bị đâm" )
-insert into [words] values ( "ぶつける",  "ぶつける", "đâm" )
-insert into [words] values ( "こぼれる",  "こぼれる", "bị tràn" )
-insert into [words] values ( "こぼす",  "こぼす", "tràn" )
-insert into [words] values ( "ふく",  "ふく", "lau" )
-insert into [words] values ( "片付く",  "かたづく", "được dọn dẹp" )
-insert into [words] values ( "片付ける",  "かたづける", "dọn dẹp" )
-insert into [words] values ( "包む",  "つつむ", "bao bọc" )
-insert into [words] values ( "張る",  "はる", "trương dán" )
-insert into [words] values ( "無くなる",  "なくなる", "bị mất" )
-insert into [words] values ( "無くす",  "なくす", "mất" )
-insert into [words] values ( "足りる",  "たりる", "túc đủ" )
-insert into [words] values ( "残る",  "のこる", "bị thừa" )
-insert into [words] values ( "残す",  "のこす", "thừa" )
-insert into [words] values ( "腐る",  "くさる", "thối" )
-insert into [words] values ( "むける",  "むける", "bị lột" )
-insert into [words] values ( "むく",  "むく", "lột" )
-insert into [words] values ( "滑る",  "すべる", "trượt" )
-insert into [words] values ( "積もる",  "つもる", "được tích tụ" )
-insert into [words] values ( "積む",  "つむ", "tích lại" )
-insert into [words] values ( "空く",  "あく", "bị thủng" )
-insert into [words] values ( "空ける",  "あける", "thủng" )
-insert into [words] values ( "下がる",  "さがる", "bị giảm" )
-insert into [words] values ( "下げる",  "さげる", "giảm" )
-insert into [words] values ( "冷える",  "ひえる", "bị lạnh" )
-insert into [words] values ( "冷やす",  "ひやす", "làm lạnh" )
-insert into [words] values ( "冷める",  "さめる", "bị nguội" )
-insert into [words] values ( "冷ます",  "さます", "làm nguội" )
-insert into [words] values ( "燃える",  "もえる", "bị cháy" )
-insert into [words] values ( "燃やす",  "もやす", "đốt" )
-insert into [words] values ( "沸く",  "わく", "sôi" )
-insert into [words] values ( "沸かす",  "わかす", "đun sôi" )
-insert into [words] values ( "鳴る",  "なる", "kêu" )
-insert into [words] values ( "鳴らす",  "ならす", "làm kêu" )
-insert into [words] values ( "役立つ",  "やくだつ", "hữu ích" )
-insert into [words] values ( "役立てる",  "やくだてる", "được sử dụng" )
-insert into [words] values ( "飾り",  "かざり", "trang trí" )
-insert into [words] values ( "遊び",  "あそび", "chơi" )
-insert into [words] values ( "集まり",  "あつまり", "tập hợp" )
-insert into [words] values ( "教え",  "おしえ", "dạy" )
-insert into [words] values ( "踊り",  "おどり", "nhảy" )
-insert into [words] values ( "思い",  "おもい", "nghĩ" )
-insert into [words] values ( "考え",  "かんがえ", "suy nghĩ" )
-insert into [words] values ( "片づけ",  "かたづけ", "ngăn nắp" )
-insert into [words] values ( "手伝い",  "てつだい", "giúp đỡ" )
-insert into [words] values ( "働き",  "はたらき", "hoạt động" )
-insert into [words] values ( "決まり",  "きまり", "luật lệ" )
-insert into [words] values ( "騒ぎ",  "さわぎ", "ồn ào" )
-insert into [words] values ( "知らせ",  "しらせ", "tin báo" )
-insert into [words] values ( "頼み",  "たのみ", "yêu cầu" )
-insert into [words] values ( "疲れ",  "つかれ", "vất mỏi" )
-insert into [words] values ( "違い",  "ちがい", "khác biệt" )
-insert into [words] values ( "始め",  "はじめ", "khởi đầu" )
-insert into [words] values ( "続き",  "つづき", "tiếp tục" )
-insert into [words] values ( "暮れ",  "くれ", "cuối ngày (mùa, năm)" )
-insert into [words] values ( "行き",  "いき", "đi" )
-insert into [words] values ( "帰り",  "かえり", "trở về" )
-insert into [words] values ( "急ぎ",  "いそぎ", "khẩn cấp" )
-insert into [words] values ( "遅れ",  "おくれ", "gián đoạn" )
-insert into [words] values ( "貸し",  "かし", "cho mượn" )
-insert into [words] values ( "借り",  "かり", "mượn" )
-insert into [words] values ( "勝ち",  "かち", "thắng" )
-insert into [words] values ( "負け",  "まけ", "thua" )
-insert into [words] values ( "迎え",  "むかえ", "đón" )
-insert into [words] values ( "始まり",  "はじまり", "bắt đầu" )
-insert into [words] values ( "終わり",  "おわり", "kết thúc" )
-insert into [words] values ( "戻り",  "もどり", "trở lại" )
-insert into [words] values ( "別れ",  "わかれ", "chia ly" )
-insert into [words] values ( "喜び",  "よろこび", "hớn hở" )
-insert into [words] values ( "楽しみ",  "たのしみ", "sung sướng" )
-insert into [words] values ( "笑い",  "わらい", "cười" )
-insert into [words] values ( "驚き",  "おどろき", "ngạc nhiên" )
-insert into [words] values ( "怒り",  "いかり", "giận dữ" )
-insert into [words] values ( "悲しみ",  "かたしみ", "buồn bã" )
-insert into [words] values ( "温まる",  "あたたまる", "trở nên ấm hơn" )
-insert into [words] values ( "温める",  "あたためる", "làm ấm" )
-insert into [words] values ( "高まる",  "たかまる", "cao lên" )
-insert into [words] values ( "高める",  "たかめる", "làm cao lên" )
-insert into [words] values ( "強まる",  "つよまる", "mạnh lên" )
-insert into [words] values ( "強める",  "つよめる", "làm mạnh lên" )
-insert into [words] values ( "弱まる",  "よわまる", "yếu đi" )
-insert into [words] values ( "弱める",  "よわめる", "làm yếu đi" )
-insert into [words] values ( "広まる",  "ひろまる", "rộng ra" )
-insert into [words] values ( "広める",  "ひろめる", "làm rộng ra" )
-insert into [words] values ( "深まる",  "ふかまる", "sâu hơn" )
-insert into [words] values ( "深める",  "ふかめる", "làm sâu thêm" )
-insert into [words] values ( "世話",  "せわ", "chăm sóc" )
-insert into [words] values ( "家庭",  "かてい", "gia đình" )
-insert into [words] values ( "協力",  "きょうりょく", "hiệp lực" )
-insert into [words] values ( "感謝",  "かんしゃ", "cảm tạ" )
-insert into [words] values ( "お礼",  "おれい", "đáp lễ" )
-insert into [words] values ( "お詫び",  "おわび", "xin lỗi" )
-insert into [words] values ( "おじぎ",  "おじぎ", "cúi chào" )
-insert into [words] values ( "握手",  "あくしゅ", "bắt tay" )
-insert into [words] values ( "いじわる",  "いじわる", "xấu bụng" )
-insert into [words] values ( "いたずら",  "いたずら", "nghịch ngợm" )
-insert into [words] values ( "届く",  "とどく", "được giao đến" )
-insert into [words] values ( "届ける",  "とどける", "giao đến" )
-insert into [words] values ( "かく",  "かく", "gãi" )
-insert into [words] values ( "つかむ",  "つかむ", "nắm bắt" )
-insert into [words] values ( "握る",  "にぎる", "nắm chặt" )
-insert into [words] values ( "抑える",  "おさえる", "giữ" )
-insert into [words] values ( "近づく",  "ちかづく", "lại gần" )
-insert into [words] values ( "近づける",  "ちかづける", "mang đến gần" )
-insert into [words] values ( "合う",  "あう", "gặp" )
-insert into [words] values ( "合わせる",  "あわせる", "tập lực" )
-insert into [words] values ( "当たる",  "あたる", "bị đánh" )
-insert into [words] values ( "当てる",  "あてる", "đánh" )
-insert into [words] values ( "比べる",  "くらべる", "so sánh" )
-insert into [words] values ( "似合う",  "にあう", "hợp" )
-insert into [words] values ( "似る",  "にる", "giống" )
-insert into [words] values ( "似せる",  "にせる", "bắt chước" )
-insert into [words] values ( "分かれる",  "わかれる", "được chia ra" )
-insert into [words] values ( "分ける",  "わける", "chia" )
-insert into [words] values ( "足す",  "たす", "thêm vào" )
-insert into [words] values ( "引く",  "ひく", "dẫn, kéo" )
-insert into [words] values ( "増える",  "ふえる", "tăng lên" )
-insert into [words] values ( "増やす",  "ふやす", "làm tăng lên" )
-insert into [words] values ( "減る",  "へる", "giảm xuống" )
-insert into [words] values ( "減らす",  "へらす", "làm giảm xuống" )
-insert into [words] values ( "変わる",  "かわる", "thay đổi" )
-insert into [words] values ( "変える",  "かえる", "làm thay đổi" )
-insert into [words] values ( "代わる・替わる・換わる",  "かわる", "thay" )
-insert into [words] values ( "代える・替える・換える",  "かえる", "đổi" )
-insert into [words] values ( "返る",  "かえる", "được trả lại" )
-insert into [words] values ( "返す",  "かえす", "trả lại" )
-insert into [words] values ( "譲る",  "ゆずる", "nhường" )
-insert into [words] values ( "助かる",  "たすかる", "được giúp" )
-insert into [words] values ( "助ける",  "たすける", "giúp" )
-insert into [words] values ( "いじめる",  "いじめる", "bắt nạt" )
-insert into [words] values ( "だまる",  "だまる", "lừa" )
-insert into [words] values ( "盗む",  "ぬすむ", "lấy cắp" )
-insert into [words] values ( "刺さる",  "ささる", "bị đâm" )
-insert into [words] values ( "刺す",  "さす", "đâm" )
-insert into [words] values ( "殺す",  "ころす", "giết" )
-insert into [words] values ( "隠れる",  "かくれる", "ẩn" )
-insert into [words] values ( "隠す",  "かくす", "che giấu" )
-insert into [words] values ( "埋まる",  "うまる", "bị chôn" )
-insert into [words] values ( "埋める",  "うめる", "chôn" )
-insert into [words] values ( "囲む",  "かこむ", "vây quanh" )
-insert into [words] values ( "詰まる",  "つまる", "tắc, kẹt" )
-insert into [words] values ( "詰める",  "つめる", "chôn, lấp, cắt giảm, " )
-insert into [words] values ( "開く",  "ひらく", "mở" )
-insert into [words] values ( "閉じる",  "とじる", "đóng" )
-insert into [words] values ( "飛ぶ",  "とぶ", "bay" )
-insert into [words] values ( "飛ばす",  "とばす", "cho bay" )
-insert into [words] values ( "振る",  "ふる", "chỉ định, đóng vai" )
-insert into [words] values ( "めくる",  "めくる", "lật lên" )
-insert into [words] values ( "見かける",  "みかける", "tình cờ thấy" )
-insert into [words] values ( "確かめる",  "たしかめる", "kiểm tra lại" )
-insert into [words] values ( "試す",  "ためす", "thử" )
-insert into [words] values ( "繰り返す",  "くりかえす", "lặp lại" )
-insert into [words] values ( "訳す",  "やくす", "dịch" )
-insert into [words] values ( "行う",  "おこなう", "tổ chức" )
-insert into [words] values ( "間違う",  "まちがう", "bị sai" )
-insert into [words] values ( "間違える",  "まちがえる", "làm sai" )
-insert into [words] values ( "許す",  "ゆるす", "tha phép" )
-insert into [words] values ( "慣れる",  "なれる", "quen" )
-insert into [words] values ( "慣らす",  "ならす", "thuần hóa, làm cho quen" )
-insert into [words] values ( "立つ",  "たつ", "đứng" )
-insert into [words] values ( "立てる",  "たてる", "dựng lên" )
-insert into [words] values ( "建つ",  "たつ", "được xây" )
-insert into [words] values ( "建てる",  "たてる", "xây" )
-insert into [words] values ( "育つ",  "そだつ", "được nuôi dạy" )
-insert into [words] values ( "育てる",  "そだてる", "nuôi dạy" )
-insert into [words] values ( "生える",  "はえる", "mọc" )
-insert into [words] values ( "生やす",  "はやす", "nuôi(râu)" )
-insert into [words] values ( "汚れる",  "よごれる", "bị bẩn" )
-insert into [words] values ( "汚す",  "よごす", "làm bẩn" )
-insert into [words] values ( "壊れる",  "こわれる", "bị hỏng" )
-insert into [words] values ( "壊す",  "こわす", "làm hỏng" )
-insert into [words] values ( "割れる",  "われる", "bị vỡ" )
-insert into [words] values ( "割る",  "わる", "làm vỡ" )
-insert into [words] values ( "折れる",  "おれる", "bị gãy" )
-insert into [words] values ( "折る",  "おる", "làm gãy" )
-insert into [words] values ( "破れる",  "やぶれる", "bị rách" )
-insert into [words] values ( "破る",  "やぶる", "xé rách" )
-insert into [words] values ( "曲がる",  "まがる", "bị uốn cong" )
-insert into [words] values ( "曲げる",  "まげる", "uốn cong" )
-insert into [words] values ( "外れる",  "はずれる", "bị rời ra" )
-insert into [words] values ( "外す",  "はずす", "tách ra" )
-insert into [words] values ( "揺れる",  "ゆれる", "bị rung" )
-insert into [words] values ( "揺らす",  "ゆらす", "đung đưa" )
-insert into [words] values ( "流れる",  "ながれる", "chảy" )
-insert into [words] values ( "流す",  "ながす", "cho chảy" )
-insert into [words] values ( "濡れる",  "ぬれる", "bị ướt" )
-insert into [words] values ( "濡らす",  "ぬらす", "làm ướt" )
-insert into [words] values ( "迷う",  "まよう", "lạc đường" )
-insert into [words] values ( "悩む",  "なやむ", "băn khoăn" )
-insert into [words] values ( "慌てる",  "あわてる", "vội vàng" )
-insert into [words] values ( "覚める",  "さめる", "thức dậy" )
-insert into [words] values ( "覚ます",  "さます", "mở" )
-insert into [words] values ( "眠る",  "ねむる", "ngủ" )
-insert into [words] values ( "祈る",  "いのる", "cầu nguyện" )
-insert into [words] values ( "祝う",  "いわう", "ăn mừng" )
-insert into [words] values ( "感じる",  "かんじる", "cảm thấy" )
-insert into [words] values ( "上る",  "のぼる", "leo lên" )
-insert into [words] values ( "下る",  "くだる", "đi xuống" )
-insert into [words] values ( "進む",  "すすむ", "tiến lên" )
-insert into [words] values ( "進める",  "すすめる", "làm cho tiến lên" )
-insert into [words] values ( "通る",  "とおる", "đi ngang qua" )
-insert into [words] values ( "通す",  "とおす", "xuyên qua" )
-insert into [words] values ( "超える・越える",  "こえる", "vượt qua" )
-insert into [words] values ( "過ぎる",  "すぎる", "qua" )
-insert into [words] values ( "過ごす",  "すごす", "sử dụng(thời gian)" )
-insert into [words] values ( "移る",  "うつる", "được chuyển" )
-insert into [words] values ( "移す",  "うつす", "chuyển" )
-insert into [words] values ( "連れる",  "つれる", "dẫn đi" )
-insert into [words] values ( "寄る",  "よる", "ghé gần" )
-insert into [words] values ( "寄せる",  "よせる", "ghé vào" )
-insert into [words] values ( "与える",  "あたえる", "cấp" )
-insert into [words] values ( "得る",  "える", "đạt được" )
-insert into [words] values ( "向く",  "むく", "hướng đến, thích hợp với" )
-insert into [words] values ( "向ける",  "むける", "hướng về phía" )
-insert into [words] values ( "勧める",  "すすめる", "gợi ý" )
-insert into [words] values ( "薦める",  "すすめる", "khuyến khích" )
-insert into [words] values ( "任せる",  "まかせる", "hết sức, dốc lòng/phó thác" )
-insert into [words] values ( "守る",  "まもる", "bảo vệ" )
-insert into [words] values ( "争う",  "あらそう", "gây gỗ, tranh giành" )
-insert into [words] values ( "臨む",  "のぞむ", "ước" )
-insert into [words] values ( "信じる",  "しんじる", "tin tưởng" )
-insert into [words] values ( "通じる",  "つうじる", "dẫn đến, hiểu rõ" )
-insert into [words] values ( "飽きる",  "あきる", "chán, mệt mỏi, không hứng thú" )
-insert into [words] values ( "思いつく",  "おもいつく", "chợt nghĩ ra" )
-insert into [words] values ( "思いやる",  "おもいやる", "cảm thông, ân cần" )
-insert into [words] values ( "熱中する",  "ねっちゅうする", "hăng say, nghiện" )
-insert into [words] values ( "暮らす",  "くらす", "sống" )
-insert into [words] values ( "巻く",  "まく", "quấn" )
-insert into [words] values ( "結ぶ",  "むすぶ", "kết lại, buộc, nối" )
-insert into [words] values ( "済む",  "すむ", "kết thúc" )
-insert into [words] values ( "すませる・済ます",  "hoàn", "tất" )
-insert into [words] values ( "出来る",  "できる", "có thể làm được" )
-insert into [words] values ( "切れる",  "きれる", "bị đứt, bị gãy, hết hạn" )
-insert into [words] values ( "切らす",  "きらす", "dùng hết, hết hàng" )
-insert into [words] values ( "伝わる",  "つたわる", "được truyền tải" )
-insert into [words] values ( "伝える",  "つたえる", "truyền tải" )
-insert into [words] values ( "続く",  "つづく", "tiếp sau" )
-insert into [words] values ( "続ける",  "つづける", "liên tiếp" )
-insert into [words] values ( "つながる",  "つながる", "có liên hệ" )
-insert into [words] values ( "つなぐ",  "つなぐ", "kết nối" )
-insert into [words] values ( "つなげる",  "つなげる", "kết chặt thêm" )
-insert into [words] values ( "伸びる",  "のびる", "(tự) lớn ra" )
-insert into [words] values ( "伸ばす",  "のばす", "kéo ra" )
-insert into [words] values ( "延びる",  "のびる", "bị trì kéo dài" )
-insert into [words] values ( "延ばす",  "のばす", "trì dài" )
-insert into [words] values ( "重なる",  "かさなる", "trùng với, chồng chất" )
-insert into [words] values ( "重ねる",  "かさねる", "chồng lên" )
-insert into [words] values ( "広がる",  "ひろがる", "(bị) mở rộng ra" )
-insert into [words] values ( "広げる",  "ひろげる", "mở rộng ra" )
-insert into [words] values ( "載る",  "のる", "được công bố" )
-insert into [words] values ( "載せる",  "のせる", "công bố" )
-insert into [words] values ( "揃う",  "そろう", "được chuẩn bị sẵn sàng" )
-insert into [words] values ( "揃える",  "そろえる", "thu thập, chuẩn bị sẵn sàng" )
-insert into [words] values ( "まとまる",  "まとまる", "được sắp xếp" )
-insert into [words] values ( "まとめる",  "まとめる", "sắp xếp vào trật tự" )
-insert into [words] values ( "付く",  "つく", "dính" )
-insert into [words] values ( "付ける",  "つける", "dính vào" )
-insert into [words] values ( "たまる",  "たまる", "được tiết kiệm" )
-insert into [words] values ( "ためる",  "ためる", "tiết kiệm" )
-insert into [words] values ( "交じる・混じる",  "まじる", "giao vào" )
-insert into [words] values ( "交ざる・混ざる",  "まざる", "được trộn lẫn" )
-insert into [words] values ( "交ぜる・混ぜる",  "まぜる", "trộn vào" )
-insert into [words] values ( "解ける・溶ける",  "とける", "bị tuột, chảy ra" )
-insert into [words] values ( "解く・溶く",  "とく", "làm tuột, chảy ra" )
-insert into [words] values ( "含む",  "ふくむ", "gồm" )
-insert into [words] values ( "含める",  "ふくめる", "bao gồm" )
-insert into [words] values ( "抜ける",  "ぬける", "rút ra, rút lui, rụng" )
-insert into [words] values ( "抜く",  "ぬく", "lấy ra, rút ra" )
-insert into [words] values ( "現れる",  "あらわれる", "xuất hiện, lộ diện" )
-insert into [words] values ( "現す",  "あらわす", "thể hiện ra, làm xuất ra" )
-insert into [words] values ( "表れる",  "あらわれる", "biểu hiện (trên mặt)" )
-insert into [words] values ( "表す",  "あらわす", "biểu diện" )
-insert into [words] values ( "散る",  "ちる", "bị héo, tàn" )
-insert into [words] values ( "散らす",  "ちらす", "tàn" )
-insert into [words] values ( "明ける",  "あける", "rạng sáng, hé lộ" )
-insert into [words] values ( "差す",  "さす", "(mặt trời) chiếu" )
-insert into [words] values ( "炊ける",  "たける", "được nấu" )
-insert into [words] values ( "炊く",  "たく", "nấu" )
-insert into [words] values ( "煮える",  "にえる", "được ninh" )
-insert into [words] values ( "煮る",  "にる", "ninh" )
-insert into [words] values ( "炒める",  "いためる", "rán" )
-insert into [words] values ( "焼ける",  "やける", "được nướng" )
-insert into [words] values ( "焼く",  "やく", "nướng" )
-insert into [words] values ( "ゆでる",  "ゆでる", "luộc" )
-insert into [words] values ( "揚げる",  "あげる", "rán ngập" )
-insert into [words] values ( "蒸す",  "むす", "hấp" )
+
+use [Nihongo];
+
+-- create table [Words] ( [ID] int identity(1,1), [Kanji] nvarchar(255), [Hiragana] nvarchar(255), [Meaning] nvarchar(255), constraint [PKid] primary key (ID));
+
+-- select * from [Words];
+
+-- drop table [Words];
+
+-- insert into [Words] values ( N'男性', N'だんせい', N'đàn ông' );
+-- insert into [Words] values ( N'女性', N'じょせい', N'phụ nữ' );
+-- insert into [Words] values ( N'高齢', N'こうれい', N'cao tuổi' );
+-- insert into [Words] values ( N'年上', N'としうえ', N'hơn tuổi' );
+-- insert into [Words] values ( N'目上', N'めうえ', N'bề trên' );
+-- insert into [Words] values ( N'先輩', N'せんぱい', N'tiền bối' );
+-- insert into [Words] values ( N'後輩', N'こうはい', N'hậu bối' );
+-- insert into [Words] values ( N'上司', N'じょうし', N'cấp trên' );
+-- insert into [Words] values ( N'相手', N'あいて', N'người đối diện' );
+-- insert into [Words] values ( N'知り合い', N'しりあい', N'người quen' );
+-- insert into [Words] values ( N'友人', N'ゆうじん', N'bạn bè' );
+-- insert into [Words] values ( N'仲', N'なか', N'mối quan hệ' );
+-- insert into [Words] values ( N'生年月日', N'せいねんがっぴ', N'ngày tháng năm sinh' );
+-- insert into [Words] values ( N'誕生', N'たんじょう', N'ra đời' );
+-- insert into [Words] values ( N'年', N'とし', N'niên năm' );
+-- insert into [Words] values ( N'出身', N'しゅっしん', N'quê quán' );
+-- insert into [Words] values ( N'故郷', N'こきょう', N'cố hương' );
+-- insert into [Words] values ( N'成長', N'せいちょう', N'trưởng thành' );
+-- insert into [Words] values ( N'成人', N'せいじん', N'người trưởng thành' );
+-- insert into [Words] values ( N'合格', N'ごうかく', N'đỗ đại học' );
+-- insert into [Words] values ( N'進学', N'しんがく', N'vào đại học' );
+-- insert into [Words] values ( N'退学', N'たいがく', N'bỏ học' );
+-- insert into [Words] values ( N'就職', N'しゅうしょく', N'có việc làm' );
+-- insert into [Words] values ( N'退職', N'たいしょく', N'nghỉ việc' );
+-- insert into [Words] values ( N'失業', N'しつぎょう', N'thất nghiệp' );
+-- insert into [Words] values ( N'残業', N'ざんぎょう', N'làm thêm' );
+-- insert into [Words] values ( N'生活', N'せいかつ', N'cuộc sống' );
+-- insert into [Words] values ( N'通勤', N'つうきん', N'đi làm' );
+-- insert into [Words] values ( N'学歴', N'がくれき', N'bằng cấp' );
+-- insert into [Words] values ( N'給料', N'きゅうりょう', N'tiền lương' );
+-- insert into [Words] values ( N'面接', N'めんせつ', N'phỏng vấn' );
+-- insert into [Words] values ( N'休憩', N'きゅうけい', N'nghỉ ngơi' );
+-- insert into [Words] values ( N'観光', N'かんこう', N'tham quan' );
+-- insert into [Words] values ( N'帰国', N'きこく', N'về nước' );
+-- insert into [Words] values ( N'帰省', N'きせい', N'về quê' );
+-- insert into [Words] values ( N'帰宅', N'きたく', N'về nhà' );
+-- insert into [Words] values ( N'参加', N'さんか', N'tham gia' );
+-- insert into [Words] values ( N'出席', N'しゅっせき', N'có mặt' );
+-- insert into [Words] values ( N'欠席', N'けっせき', N'vắng mặt' );
+-- insert into [Words] values ( N'遅刻', N'ちこく', N'đến muộn' );
+-- insert into [Words] values ( N'化粧', N'けしょう', N'trang điểm' );
+-- insert into [Words] values ( N'計算', N'けいさん', N'tính toán' );
+-- insert into [Words] values ( N'計画', N'けいかく', N'kế hoạch' );
+-- insert into [Words] values ( N'成功', N'せいこう', N'thành công' );
+-- insert into [Words] values ( N'失敗', N'しっぱい', N'thất bại' );
+-- insert into [Words] values ( N'準備', N'じゅんび', N'chuẩn bị' );
+-- insert into [Words] values ( N'整理', N'せいり', N'chỉnh sửa' );
+-- insert into [Words] values ( N'注文', N'ちゅうもん', N'đặt hàng' );
+-- insert into [Words] values ( N'貯金', N'ちょきん', N'tiết kiệm' );
+-- insert into [Words] values ( N'徹夜', N'てつや', N'thức xuyên đêm' );
+-- insert into [Words] values ( N'引っ越し', N'ひっこし', N'chuyển nhà' );
+-- insert into [Words] values ( N'身長', N'しんちょう', N'chiều cao' );
+-- insert into [Words] values ( N'体重', N'たいじゅう', N'cân nặng' );
+-- insert into [Words] values ( N'けが', N'けが', N'vết thương' );
+-- insert into [Words] values ( N'会', N'かい', N'hội' );
+-- insert into [Words] values ( N'趣味', N'しゅみ', N'sở thích' );
+-- insert into [Words] values ( N'興味', N'きょうみ', N'hứng thú' );
+-- insert into [Words] values ( N'思い出', N'おもいで', N'nhớ lại' );
+-- insert into [Words] values ( N'冗談', N'じょうだん', N'đùa cợt' );
+-- insert into [Words] values ( N'目的', N'もくてき', N'mục đích' );
+-- insert into [Words] values ( N'約束', N'やくそく', N'lời hứa' );
+-- insert into [Words] values ( N'おしゃべり', N'おしゃべり', N'nói chuyện riêng' );
+-- insert into [Words] values ( N'遠慮', N'えんりょ', N'ngại ngần' );
+-- insert into [Words] values ( N'我慢', N'がまん', N'chịu đựng' );
+-- insert into [Words] values ( N'目枠', N'めわく', N'làm phiền' );
+-- insert into [Words] values ( N'希望', N'きぼう', N'hi vọng' );
+-- insert into [Words] values ( N'夢', N'ゆめ', N'giấc mơ' );
+-- insert into [Words] values ( N'賛成', N'さんせい', N'đồng ý' );
+-- insert into [Words] values ( N'反対', N'はんたい', N'đối lập' );
+-- insert into [Words] values ( N'創造', N'そうぞう', N'tưởng tượng' );
+-- insert into [Words] values ( N'努力', N'どりょく', N'nỗ lực' );
+-- insert into [Words] values ( N'太陽', N'たいよう', N'mặt trời' );
+-- insert into [Words] values ( N'地球', N'ちきゅう', N'trái đất' );
+-- insert into [Words] values ( N'温度', N'おんど', N'nhiệt độ' );
+-- insert into [Words] values ( N'湿度', N'しつど', N'độ ẩm' );
+-- insert into [Words] values ( N'湿気', N'しっけ', N'hơi ẩm' );
+-- insert into [Words] values ( N'梅雨', N'つゆ', N'mùa mưa' );
+-- insert into [Words] values ( N'かび', N'かび', N'nấm mốc' );
+-- insert into [Words] values ( N'暖房', N'だんぼう', N'điều hòa ấm' );
+-- insert into [Words] values ( N'皮', N'かわ', N'da' );
+-- insert into [Words] values ( N'館', N'かん', N'quán' );
+-- insert into [Words] values ( N'画面', N'がめん', N'màn hình' );
+-- insert into [Words] values ( N'番組', N'ばんぐみ', N'chương trình' );
+-- insert into [Words] values ( N'記事', N'きじ', N'ký sự' );
+-- insert into [Words] values ( N'近所', N'きんじょ', N'xung quanh' );
+-- insert into [Words] values ( N'警察', N'けいさつ', N'cảnh sát' );
+-- insert into [Words] values ( N'犯人', N'はんにん', N'tội phạm' );
+-- insert into [Words] values ( N'小銭', N'こぜに', N'tiền lẻ' );
+-- insert into [Words] values ( N'ごちそう', N'ごちそう', N'chiêu đãi' );
+-- insert into [Words] values ( N'作者', N'作者', N'tác giả' );
+-- insert into [Words] values ( N'作品', N'さくひん', N'tác phẩm' );
+-- insert into [Words] values ( N'制服', N'せいふく', N'đồng phục' );
+-- insert into [Words] values ( N'洗剤', N'せんざい', N'bột giặt' );
+-- insert into [Words] values ( N'底', N'そこ', N'đáy' );
+-- insert into [Words] values ( N'地下', N'ちか', N'ngầm' );
+-- insert into [Words] values ( N'寺', N'てら', N'chùa' );
+-- insert into [Words] values ( N'道路', N'どうろ', N'đường' );
+-- insert into [Words] values ( N'坂', N'さか', N'dốc' );
+-- insert into [Words] values ( N'煙', N'けむり', N'khói' );
+-- insert into [Words] values ( N'灰', N'はい', N'tàn, tro' );
+-- insert into [Words] values ( N'判', N'はん', N'con dấu' );
+-- insert into [Words] values ( N'名刺', N'めいし', N'danh thiếp' );
+-- insert into [Words] values ( N'免許', N'めんきょ', N'giấy phép' );
+-- insert into [Words] values ( N'多く', N'おおく', N'nhiều' );
+-- insert into [Words] values ( N'前半', N'ぜんはん', N'phần đầu' );
+-- insert into [Words] values ( N'後半', N'こうはん', N'phần cuối' );
+-- insert into [Words] values ( N'最高', N'さいこう', N'cao nhất' );
+-- insert into [Words] values ( N'最低', N'さいてい', N'thấp nhất' );
+-- insert into [Words] values ( N'最初', N'さいしょ', N'đầu tiên' );
+-- insert into [Words] values ( N'最後', N'さいご', N'cuối cùng' );
+-- insert into [Words] values ( N'自動', N'じどう', N'tự động' );
+-- insert into [Words] values ( N'種類', N'しゅるい', N'loại' );
+-- insert into [Words] values ( N'性格', N'せいかく', N'tính cách' );
+-- insert into [Words] values ( N'性質', N'せいしつ', N'tính chất' );
+-- insert into [Words] values ( N'順番', N'じゅんばん', N'thứ tự' );
+-- insert into [Words] values ( N'番', N'ばん', N'lượt' );
+-- insert into [Words] values ( N'方法', N'ほうほう', N'phương pháp' );
+-- insert into [Words] values ( N'製品', N'せいひん', N'sản phẩm' );
+-- insert into [Words] values ( N'値上がり', N'ねあがり', N'tăng giá' );
+-- insert into [Words] values ( N'生', N'なま', N'(hải sản) tươi' );
+-- insert into [Words] values ( N'節約', N'せつやく', N'tiết kiệm' );
+-- insert into [Words] values ( N'経営', N'けいえい', N'quản lý' );
+-- insert into [Words] values ( N'反省', N'はんせい', N'tự kiểm tra' );
+-- insert into [Words] values ( N'実行', N'じっこう', N'thực hành' );
+-- insert into [Words] values ( N'進歩', N'しんぽ', N'tiến bộ' );
+-- insert into [Words] values ( N'変化', N'へんか', N'thay hóa' );
+-- insert into [Words] values ( N'発達', N'はったつ', N'phát triển' );
+-- insert into [Words] values ( N'体力', N'たいりょく', N'thể lực' );
+-- insert into [Words] values ( N'出場', N'しゅつじょう', N'tham dự' );
+-- insert into [Words] values ( N'活躍', N'かつやく', N'hoạt động' );
+-- insert into [Words] values ( N'競争', N'きょうそう', N'cạnh tranh' );
+-- insert into [Words] values ( N'応援', N'おうえん', N'cổ vũ' );
+-- insert into [Words] values ( N'拍手', N'はくしゅ', N'vỗ tay' );
+-- insert into [Words] values ( N'人気', N'にんき', N'nổi tiếng' );
+-- insert into [Words] values ( N'うわさ', N'うわさ', N'tin đồn' );
+-- insert into [Words] values ( N'情報', N'じょうほう', N'thông tin' );
+-- insert into [Words] values ( N'交換', N'こうかん', N'trao đổi' );
+-- insert into [Words] values ( N'流行', N'りゅうこう', N'trào lưu' );
+-- insert into [Words] values ( N'宣伝', N'せんでん', N'tuyên truyền' );
+-- insert into [Words] values ( N'広告', N'こうこく', N'quảng cáo' );
+-- insert into [Words] values ( N'注目', N'ちゅうもく', N'chú trọng' );
+-- insert into [Words] values ( N'通訳', N'つうやく', N'thông dịch' );
+-- insert into [Words] values ( N'翻訳', N'ほにゃく', N'phiên. Dịch biên dịch' );
+-- insert into [Words] values ( N'伝言', N'でんごん', N'tin nhắn thoại' );
+-- insert into [Words] values ( N'報告', N'ほうこく', N'báo cáo' );
+-- insert into [Words] values ( N'録画', N'ろくが', N'ghi lại' );
+-- insert into [Words] values ( N'混雑', N'こんざつ', N'hỗn tạp' );
+-- insert into [Words] values ( N'渋滞', N'じゅうたい', N'tắc đường' );
+-- insert into [Words] values ( N'衝突', N'しょうとつ', N'xung đột' );
+-- insert into [Words] values ( N'被害', N'ひがい', N'thiệt hại' );
+-- insert into [Words] values ( N'事故', N'じこ', N'tai nạn' );
+-- insert into [Words] values ( N'事件', N'じけん', N'sự kiện' );
+-- insert into [Words] values ( N'故障', N'こしょう', N'hỏng' );
+-- insert into [Words] values ( N'修理', N'しゅうり', N'sửa chữa' );
+-- insert into [Words] values ( N'停電', N'ていでん', N'mất điện' );
+-- insert into [Words] values ( N'調子', N'ちょうし', N'trạng thái' );
+-- insert into [Words] values ( N'緊張', N'きんちょう', N'lo lắng' );
+-- insert into [Words] values ( N'自身', N'じしん', N'tự tin' );
+-- insert into [Words] values ( N'自慢', N'じまん', N'tự mãn' );
+-- insert into [Words] values ( N'感心', N'かんしん', N'quan tâm' );
+-- insert into [Words] values ( N'感動', N'かんどう', N'cảm động' );
+-- insert into [Words] values ( N'興奮', N'こうふん', N'hưng phấn' );
+-- insert into [Words] values ( N'感想', N'かんそう', N'cảm tưởng' );
+-- insert into [Words] values ( N'予想', N'よそう', N'dự đoán' );
+-- insert into [Words] values ( N'専門', N'せんもん', N'chuyên môn' );
+-- insert into [Words] values ( N'研究', N'けんきゅう', N'nghiên cứu' );
+-- insert into [Words] values ( N'調査', N'ちょうさ', N'điều tra' );
+-- insert into [Words] values ( N'原因', N'げんいん', N'nguyên nhân' );
+-- insert into [Words] values ( N'結果', N'けっか', N'kết quả' );
+-- insert into [Words] values ( N'解決', N'かいけつ', N'giải quyết' );
+-- insert into [Words] values ( N'確認', N'かくにん', N'xác nhận' );
+-- insert into [Words] values ( N'利用', N'りよう', N'sử dụng' );
+-- insert into [Words] values ( N'理解', N'りかい', N'lý giải' );
+-- insert into [Words] values ( N'発見', N'はっけん', N'phát kiến' );
+-- insert into [Words] values ( N'発明', N'はつめい', N'phát minh' );
+-- insert into [Words] values ( N'関係', N'かんけい', N'quan hệ' );
+-- insert into [Words] values ( N'団体', N'だんたい', N'đoàn thể' );
+-- insert into [Words] values ( N'選挙', N'せんきょ', N'bầu cử' );
+-- insert into [Words] values ( N'税金', N'ぜいきん', N'thuế' );
+-- insert into [Words] values ( N'責任', N'trách', N'nhiệm' );
+-- insert into [Words] values ( N'書類', N'しょるい', N'tài liệu' );
+-- insert into [Words] values ( N'題名', N'だいめい', N'tiêu đề' );
+-- insert into [Words] values ( N'条件', N'じょうけん', N'điều kiện' );
+-- insert into [Words] values ( N'締め切り', N'しめきり', N'hạn cuối' );
+-- insert into [Words] values ( N'期間', N'きかん', N'thời kỳ' );
+-- insert into [Words] values ( N'倍', N'ばい', N'lần' );
+-- insert into [Words] values ( N'くじ', N'くじ', N'xổ thăm' );
+-- insert into [Words] values ( N'近道', N'ちかみち', N'đường tắt' );
+-- insert into [Words] values ( N'中心', N'ちゅうしん', N'trung tâm' );
+-- insert into [Words] values ( N'辺り', N'あたり', N'biên cận' );
+-- insert into [Words] values ( N'周り', N'まわり', N'chu xung quanh' );
+-- insert into [Words] values ( N'穴', N'あな', N'lỗ' );
+-- insert into [Words] values ( N'列', N'れつ', N'hàng' );
+-- insert into [Words] values ( N'幅', N'はば', N'chiều rộng' );
+-- insert into [Words] values ( N'範囲', N'はんい', N'phạm vi' );
+-- insert into [Words] values ( N'内容', N'ないよう', N'nội dung' );
+-- insert into [Words] values ( N'中身', N'なかみ', N'bên trong' );
+-- insert into [Words] values ( N'特徴', N'とくちょう', N'đặc trưng' );
+-- insert into [Words] values ( N'普通', N'ふつう', N'bình thường' );
+-- insert into [Words] values ( N'当たり前', N'あたりまえ', N'đương nhiên' );
+-- insert into [Words] values ( N'偽', N'にせ', N'ngụy giả' );
+-- insert into [Words] values ( N'別', N'べつ', N'biệt khác' );
+-- insert into [Words] values ( N'国籍', N'こくせき', N'quốc tịch' );
+-- insert into [Words] values ( N'東洋', N'とうよう', N'phương đông' );
+-- insert into [Words] values ( N'西洋', N'せいよう', N'phương tây' );
+-- insert into [Words] values ( N'国際', N'こくさい', N'quốc tế' );
+-- insert into [Words] values ( N'自然', N'しぜん', N'tự nhiên' );
+-- insert into [Words] values ( N'景色', N'けしき', N'phong cảnh' );
+-- insert into [Words] values ( N'宗教', N'しゅうきょう', N'tôn giáo' );
+-- insert into [Words] values ( N'愛', N'あい', N'yêu yêu' );
+-- insert into [Words] values ( N'実は', N'じつは', N'thực tế là' );
+-- insert into [Words] values ( N'読書', N'どくしょ', N'đọc viết' );
+-- insert into [Words] values ( N'演奏', N'えんそう', N'biểu diễn' );
+-- insert into [Words] values ( N'芸術', N'げいじゅつ', N'nghệ thuật' );
+-- insert into [Words] values ( N'検査', N'けんさ', N'kiểm tra' );
+-- insert into [Words] values ( N'血液', N'けつえき', N'máu' );
+-- insert into [Words] values ( N'治療', N'ちりょう', N'trị liệu' );
+-- insert into [Words] values ( N'症状', N'しょうじょう', N'triệu chứng' );
+-- insert into [Words] values ( N'予防', N'よぼう', N'dự phòng' );
+-- insert into [Words] values ( N'栄養', N'えいよう', N'dinh dưỡng' );
+-- insert into [Words] values ( N'手術', N'しゅじゅつ', N'phẫu thuật' );
+-- insert into [Words] values ( N'死亡', N'しぼう', N'tử vong' );
+-- insert into [Words] values ( N'命', N'いのち', N'mệnh sinh mạng' );
+-- insert into [Words] values ( N'一生', N'いっしょう', N'suốt đời' );
+-- insert into [Words] values ( N'誤解', N'ごかい', N'hiểu nhầm' );
+-- insert into [Words] values ( N'後悔', N'こうかい', N'hối hận' );
+-- insert into [Words] values ( N'訳', N'わけ', N'dịch lý do' );
+-- insert into [Words] values ( N'態度', N'たいど', N'thái độ' );
+-- insert into [Words] values ( N'癖', N'くせ', N'thói quen' );
+-- insert into [Words] values ( N'礼儀', N'れいぎ', N'lễ nghĩa' );
+-- insert into [Words] values ( N'文句', N'もんく', N'phàn nàn' );
+-- insert into [Words] values ( N'表情', N'ひょうじょう', N'biểu thị' );
+-- insert into [Words] values ( N'鏡面', N'ひょうめん', N'bề mặt' );
+-- insert into [Words] values ( N'禁煙', N'きんえん', N'cấm hút thuốc' );
+-- insert into [Words] values ( N'禁止', N'きんし', N'cấm' );
+-- insert into [Words] values ( N'完成', N'かんせい', N'hoàn thành' );
+-- insert into [Words] values ( N'課題', N'かだい', N'chủ đề' );
+-- insert into [Words] values ( N'例外', N'れいがい', N'ngoại lệ' );
+-- insert into [Words] values ( N'基本', N'きほん', N'cơ bản' );
+-- insert into [Words] values ( N'記録', N'きろく', N'ghi âm' );
+-- insert into [Words] values ( N'状態', N'じょうたい', N'trạng thái' );
+-- insert into [Words] values ( N'出来事', N'できごと', N'sự kiện' );
+-- insert into [Words] values ( N'場面', N'ばめん', N'khung trường' );
+-- insert into [Words] values ( N'機会', N'きかい', N'cơ hội' );
+-- insert into [Words] values ( N'距離', N'きょり', N'khoảng cách' );
+-- insert into [Words] values ( N'提案', N'ていあん', N'đề xuất' );
+-- insert into [Words] values ( N'やり取り', N'やりとり', N'trao việc' );
+-- insert into [Words] values ( N'知識', N'ちしき', N'kiến thức' );
+-- insert into [Words] values ( N'実力', N'じつりょく', N'thực lực' );
+-- insert into [Words] values ( N'手段', N'しゅだん', N'cách thức' );
+-- insert into [Words] values ( N'代表', N'だいひょう', N'đại biểu' );
+-- insert into [Words] values ( N'影響', N'えいきょう', N'ảnh hưởng' );
+-- insert into [Words] values ( N'効果', N'こうか', N'hiệu quả' );
+-- insert into [Words] values ( N'印象', N'いんしょう', N'ấn tượng' );
+-- insert into [Words] values ( N'印', N'しるし', N'ấn hiệu' );
+-- insert into [Words] values ( N'合図', N'あいず', N'ám hiệu' );
+-- insert into [Words] values ( N'共通', N'きょうつう', N'chung' );
+-- insert into [Words] values ( N'協調', N'きょうちょう', N'nhấn mạnh' );
+-- insert into [Words] values ( N'省略', N'しょうりゃく', N'lược bớt' );
+-- insert into [Words] values ( N'挑戦', N'ちょうせん', N'thử thách' );
+-- insert into [Words] values ( N'やる気', N'やるき', N'khí động lực' );
+-- insert into [Words] values ( N'勇気', N'ゆうき', N'dũng khí' );
+-- insert into [Words] values ( N'資格', N'しかく', N'bằng cách' );
+-- insert into [Words] values ( N'申請', N'しんせい', N'đăng tuyển' );
+-- insert into [Words] values ( N'本人', N'ほんにん', N'được nói đến' );
+-- insert into [Words] values ( N'契約', N'けいやく', N'hợp đồng' );
+-- insert into [Words] values ( N'証明', N'しょうめい', N'chứng chứng' );
+-- insert into [Words] values ( N'変更', N'へんこう', N'thay đổi' );
+-- insert into [Words] values ( N'保存', N'ほぞん', N'bảo tồn' );
+-- insert into [Words] values ( N'保護', N'ほご', N'bảo vệ' );
+-- insert into [Words] values ( N'環境', N'かんきょう', N'môi trường' );
+-- insert into [Words] values ( N'資源', N'しげん', N'tài nguyên' );
+-- insert into [Words] values ( N'不足', N'ふそく', N'thiếu' );
+-- insert into [Words] values ( N'平均', N'へいきん', N'trung bình' );
+-- insert into [Words] values ( N'割合', N'わりあい', N'tỷ lệ' );
+-- insert into [Words] values ( N'商売', N'しょうばい', N'kinh bán' );
+-- insert into [Words] values ( N'商品', N'しょうひん', N'sản phẩm' );
+-- insert into [Words] values ( N'質', N'しつ', N'chất lượng' );
+-- insert into [Words] values ( N'型', N'かた', N'hình mẫu' );
+-- insert into [Words] values ( N'生産', N'せいさん', N'sản xuất' );
+-- insert into [Words] values ( N'消費', N'しょうひ', N'tiêu thụ' );
+-- insert into [Words] values ( N'物価', N'ぶっか', N'giá giá' );
+-- insert into [Words] values ( N'倒産', N'とうさん', N'phá sản' );
+-- insert into [Words] values ( N'携帯', N'けいたい', N'mang theo' );
+-- insert into [Words] values ( N'現代', N'げんだい', N'hiện tại' );
+-- insert into [Words] values ( N'世紀', N'せいき', N'thế kỷ' );
+-- insert into [Words] values ( N'文化', N'ぶんか', N'văn hóa' );
+-- insert into [Words] values ( N'都市', N'とし', N'thành phố' );
+-- insert into [Words] values ( N'地方', N'ちほう', N'địa phương' );
+-- insert into [Words] values ( N'戦争', N'せんそう', N'chiến tranh' );
+-- insert into [Words] values ( N'平和', N'へいわ', N'hòa bình' );
+-- insert into [Words] values ( N'クラスメート', N'クラスメート', N'bạn cùng lớp ' );
+-- insert into [Words] values ( N'グループ', N'グループ', N'nhóm ' );
+-- insert into [Words] values ( N'チーム', N'チーム', N'đội ' );
+-- insert into [Words] values ( N'プロフェッショナル', N'プロフェッショナル', N'chuyên nghiệp ' );
+-- insert into [Words] values ( N'アマチュア', N'アマチュア', N'nghiệp dư ' );
+-- insert into [Words] values ( N'トレーニング', N'トレーニング', N'đào tạo ' );
+-- insert into [Words] values ( N'マッサージ', N'マッサージ', N'mát xa ' );
+-- insert into [Words] values ( N'アドバイス', N'アドバイス', N'khuyên ' );
+-- insert into [Words] values ( N'アイデア・アイディア', N'アイデア・アイディア', N'ý tưởng' );
+-- insert into [Words] values ( N'トップ', N'トップ', N'top' );
+-- insert into [Words] values ( N'スピード', N'スピード', N'tốc độ' );
+-- insert into [Words] values ( N'ラッシュ', N'ラッシュ', N'đông đúc' );
+-- insert into [Words] values ( N'バイク', N'バイク', N'xe máy' );
+-- insert into [Words] values ( N'ヘルメット', N'ヘルメット', N'mũ bảo hiểm' );
+-- insert into [Words] values ( N'コンタクトレンズ', N'コンタクトレンズ', N'kính áp tròng' );
+-- insert into [Words] values ( N'ガラス', N'ガラス', N'kính' );
+-- insert into [Words] values ( N'プラスチック', N'プラスチック', N'nhựa' );
+-- insert into [Words] values ( N'ベランダ', N'ベランダ', N'ban công' );
+-- insert into [Words] values ( N'ペット', N'ペット', N'thú cưng' );
+-- insert into [Words] values ( N'ベンチ', N'ベンチ', N'ghế bành' );
+-- insert into [Words] values ( N'デザイン', N'デザイン', N'thiết kế' );
+-- insert into [Words] values ( N'バーゲンセール', N'バーゲンセール', N'sale' );
+-- insert into [Words] values ( N'パート', N'パート', N'làm thêm' );
+-- insert into [Words] values ( N'コンビニエンスストア', N'コンビニエンスストア', N'cửa hàng tiện ích' );
+-- insert into [Words] values ( N'レジ', N'レジ', N'máy tính tiền' );
+-- insert into [Words] values ( N'レシート', N'レシート', N'hóa đơn' );
+-- insert into [Words] values ( N'インスタント', N'インスタント', N'ăn liền' );
+-- insert into [Words] values ( N'ファストフード', N'ファストフード', N'đồ ăn nhanh' );
+-- insert into [Words] values ( N'フルーツ', N'フルーツ', N'trái cây' );
+-- insert into [Words] values ( N'デザート', N'デザート', N'tráng miệng' );
+-- insert into [Words] values ( N'インターネット', N'インターネット', N'internet' );
+-- insert into [Words] values ( N'チャイム', N'チャイム', N'chuông' );
+-- insert into [Words] values ( N'アナウンス', N'アナウンス', N'thông báo' );
+-- insert into [Words] values ( N'メッセージ', N'メッセージ', N'tin nhắn' );
+-- insert into [Words] values ( N'パンフレット', N'パンフレット', N'tờ rơi' );
+-- insert into [Words] values ( N'カード', N'カード', N'card' );
+-- insert into [Words] values ( N'インタビュー', N'インタビュー', N'phỏng vấn' );
+-- insert into [Words] values ( N'アンケート', N'アンケート', N'tờ câu hỏi' );
+-- insert into [Words] values ( N'データ', N'データ', N'dữ liệu' );
+-- insert into [Words] values ( N'パーセント', N'パーセント', N'phần trăm' );
+-- insert into [Words] values ( N'パートナ', N'パートナー', N'đối tác' );
+-- insert into [Words] values ( N'リーダー', N'リーダー', N'lãnh đạo' );
+-- insert into [Words] values ( N'ボランティア', N'ボランティア', N'tình nguyện' );
+-- insert into [Words] values ( N'コミュニケーション', N'コミュニケーション', N'giao tiếp' );
+-- insert into [Words] values ( N'ユーモア', N'ユーモア', N'hài' );
+-- insert into [Words] values ( N'ショック', N'ショック', N'sốc' );
+-- insert into [Words] values ( N'ストレス', N'ストレス', N'căng' );
+-- insert into [Words] values ( N'バランス', N'バランス', N'cân bằng' );
+-- insert into [Words] values ( N'レベル', N'レベル', N'trình' );
+-- insert into [Words] values ( N'アップ', N'アップ', N'tăng lên' );
+-- insert into [Words] values ( N'ダウン', N'ダウン', N'giảm xuống' );
+-- insert into [Words] values ( N'プラス', N'プラス', N'phép động tích cực' );
+-- insert into [Words] values ( N'マイナス', N'マイナス', N'phép động tiêu cực' );
+-- insert into [Words] values ( N'イメージ', N'イメージ', N'hình ảnh' );
+-- insert into [Words] values ( N'コンテスト', N'コンテスト', N'cuộc thi' );
+-- insert into [Words] values ( N'マスコミ', N'マスコミ', N'thông tin truyền thông' );
+-- insert into [Words] values ( N'プライバシー', N'プライバシー', N'cá tư' );
+-- insert into [Words] values ( N'オフィス', N'オフィス', N'văn phòng' );
+-- insert into [Words] values ( N'ルール', N'ルール', N'luật lệ' );
+-- insert into [Words] values ( N'マナー', N'マナー', N'tác phong' );
+-- insert into [Words] values ( N'ミス', N'ミス', N'lỗi' );
+-- insert into [Words] values ( N'スケジュール', N'スケジュール', N'hoạch' );
+-- insert into [Words] values ( N'タイトル', N'タイトル', N'tiêu đề' );
+-- insert into [Words] values ( N'テーマ', N'テーマ', N'chủ đề' );
+-- insert into [Words] values ( N'ストーリー', N'ストーリー', N'câu chuyện' );
+-- insert into [Words] values ( N'ヒット', N'ヒット', N'nổi tiếng' );
+-- insert into [Words] values ( N'ブランド', N'ブランド', N'nhãn hiệu' );
+-- insert into [Words] values ( N'レンタル', N'レンタル', N'thuê' );
+-- insert into [Words] values ( N'リサイクル', N'リサイクル', N'tái chế' );
+-- insert into [Words] values ( N'ラベル', N'ラベル', N'nhãn' );
+-- insert into [Words] values ( N'タイプ', N'タイプ', N'loại' );
+-- insert into [Words] values ( N'スタイル', N'スタイル', N'kiểu dáng' );
+-- insert into [Words] values ( N'セット', N'セット', N'cài' );
+-- insert into [Words] values ( N'ウイルス', N'ウイルス', N'virus' );
+-- insert into [Words] values ( N'ロボット', N'ロボット', N'robot' );
+-- insert into [Words] values ( N'エネルギー', N'エネルギー', N'năng lượng' );
+-- insert into [Words] values ( N'デジタル', N'デジタル', N'kỹ thuật số' );
+-- insert into [Words] values ( N'マイク', N'マイク', N'âm' );
+-- insert into [Words] values ( N'ブレーキ', N'ブレーキ', N'phanh' );
+-- insert into [Words] values ( N'ペンキ', N'ペンキ', N'sơn' );
+-- insert into [Words] values ( N'幸せな', N'しあわせな', N'hạnh phúc ' );
+-- insert into [Words] values ( N'得意な', N'とくいな',' N' );
+-- insert into [Words] values ( N'苦手な', N'にがてな',' N' );
+-- insert into [Words] values ( N'熱心な', N'ねっしんな', N'chăm chỉ ' );
+-- insert into [Words] values ( N'夢中な', N'むちゅうな', N'chú tâm ' );
+-- insert into [Words] values ( N'退屈な', N'たいくつな', N'chán ' );
+-- insert into [Words] values ( N'健康な', N'けんこうな', N'khỏe khoắn ' );
+-- insert into [Words] values ( N'苦しい', N'くるしい', N'cực khổ ' );
+-- insert into [Words] values ( N'平気な', N'へいきな', N'bình thản' );
+-- insert into [Words] values ( N'悔しい', N'くやしい', N'cay cú' );
+-- insert into [Words] values ( N'うらやましい', N'うらやましい', N'ghen tỵ' );
+-- insert into [Words] values ( N'かゆい', N'かゆい', N'ngứa' );
+-- insert into [Words] values ( N'おとなしい', N'おとなしい', N'trầm lặng' );
+-- insert into [Words] values ( N'我慢強い', N'がまんづよい', N'chịu đựng giỏi' );
+-- insert into [Words] values ( N'正直な', N'しょうじきな', N'trung thực' );
+-- insert into [Words] values ( N'けちな', N'けちな', N'kẹt xỉ' );
+-- insert into [Words] values ( N'我儘な', N'ích', N'kỷ' );
+-- insert into [Words] values ( N'積極的な', N'せっきょくてきな', N'tích cực' );
+-- insert into [Words] values ( N'消極的な', N'しょうきょくてきな', N'tiêu cực' );
+-- insert into [Words] values ( N'満足な', N'まんぞくな', N'thỏa mãn' );
+-- insert into [Words] values ( N'不満な', N'ふまんな', N'bất mãn' );
+-- insert into [Words] values ( N'不安な', N'ふあんな', N'bất an' );
+-- insert into [Words] values ( N'大変な', N'たいへんな', N'tồi tệ' );
+-- insert into [Words] values ( N'無理な', N'むりな', N'vô lý' );
+-- insert into [Words] values ( N'不注意な', N'ふちゅういな', N'không chú ý' );
+-- insert into [Words] values ( N'楽な', N'らくな', N'lạc thoải mái' );
+-- insert into [Words] values ( N'面倒な', N'めんどうな', N'phiền phức' );
+-- insert into [Words] values ( N'失礼な', N'しつれいな', N'thất lễ' );
+-- insert into [Words] values ( N'当然な', N'とうぜんな', N'đương nhiên' );
+-- insert into [Words] values ( N'意外な', N'いがいな', N'không ngờ đến' );
+-- insert into [Words] values ( N'結構な', N'けっこうな', N'khá là' );
+-- insert into [Words] values ( N'派手な', N'はでな', N'lòe loẹt' );
+-- insert into [Words] values ( N'地味な', N'じみな', N'giản dị' );
+-- insert into [Words] values ( N'おしゃれな', N'おしゃれな', N'thời' );
+-- insert into [Words] values ( N'変な', N'へんな', N'biến lạ' );
+-- insert into [Words] values ( N'不思議な', N'ふしぎな', N'thần bí' );
+-- insert into [Words] values ( N'ましな', N'ましな', N'tốt lên' );
+-- insert into [Words] values ( N'むだな', N'むだな', N'lãng phí' );
+-- insert into [Words] values ( N'自由な', N'じゆうな', N'tự do' );
+-- insert into [Words] values ( N'不自由な', N'ふじゆうな', N'không tự do' );
+-- insert into [Words] values ( N'濃い', N'こい', N'nồng' );
+-- insert into [Words] values ( N'薄い', N'うすい', N'mỏng, nhạt' );
+-- insert into [Words] values ( N'酸っぱい', N'すっぱい', N'chua' );
+-- insert into [Words] values ( N'臭い', N'くさい', N'thối' );
+-- insert into [Words] values ( N'おかしい', N'おかしい', N'lạ' );
+-- insert into [Words] values ( N'かっこいい', N'かっこいい', N'bảnh bao' );
+-- insert into [Words] values ( N'うまい', N'うまい', N'ngon' );
+-- insert into [Words] values ( N'親しい', N'したしい', N'thân thiết' );
+-- insert into [Words] values ( N'詳しい', N'くわしい', N'chi tiết' );
+-- insert into [Words] values ( N'細かい', N'こまかい', N'cặn kẽ, tỉ mỉ' );
+-- insert into [Words] values ( N'浅い', N'あさい', N'nông' );
+-- insert into [Words] values ( N'固い・硬い', N'かたい', N'cứng' );
+-- insert into [Words] values ( N'ぬるい', N'ぬるい', N'nguội' );
+-- insert into [Words] values ( N'まぶしい', N'まぶしい', N'chói' );
+-- insert into [Words] values ( N'蒸し暑い', N'むしあつい', N'nóng ẩm' );
+-- insert into [Words] values ( N'清潔な', N'せいけつな', N'sạch' );
+-- insert into [Words] values ( N'新鮮な', N'しんせんな', N'tươi' );
+-- insert into [Words] values ( N'豊かな', N'ゆたかな', N'giàu có' );
+-- insert into [Words] values ( N'立派な', N'りっぱな', N'lập siêu' );
+-- insert into [Words] values ( N'正確な', N'せいかくな', N'chính xác' );
+-- insert into [Words] values ( N'確かな', N'たしかな', N'đích thực' );
+-- insert into [Words] values ( N'重要な', N'じゅうような', N'quan trọng' );
+-- insert into [Words] values ( N'必要な', N'ひつような', N'cần thiết' );
+-- insert into [Words] values ( N'もったいない', N'もったいない', N'lãng phí' );
+-- insert into [Words] values ( N'すごい', N'すごい', N'tuyệt' );
+-- insert into [Words] values ( N'ひどい', N'ひどい', N'tồi' );
+-- insert into [Words] values ( N'激しい', N'はげしい', N'mãnh liệt' );
+-- insert into [Words] values ( N'そっくりな', N'そっくりな', N'giống' );
+-- insert into [Words] values ( N'急な', N'きゅうな', N'đột nhiên' );
+-- insert into [Words] values ( N'敵とな', N'てきとな', N'phù hợp' );
+-- insert into [Words] values ( N'特別な', N'とくべつな', N'đặc biệt' );
+-- insert into [Words] values ( N'完全な', N'かんぜんな', N'toàn bộ' );
+-- insert into [Words] values ( N'盛んな', N'さかんな', N'thịnh vượng' );
+-- insert into [Words] values ( N'様々な', N'さまざまな', N'đa đạng' );
+-- insert into [Words] values ( N'可能な', N'かのうな', N'khả thi' );
+-- insert into [Words] values ( N'不可能な', N'ふかのうな', N'bất khả thi' );
+-- insert into [Words] values ( N'基本的な', N'きほんてきな', N'cơ bản' );
+-- insert into [Words] values ( N'国際的な', N'こくさいてきな', N'tính quốc tế' );
+-- insert into [Words] values ( N'ばらばらな', N'ばらばらな', N'tung rẽ' );
+-- insert into [Words] values ( N'ぼろぼろな', N'ぼろぼろな', N'rách tua' );
+-- insert into [Words] values ( N'大変に', N'たいへんに', N'khủng nhiều ' );
+-- insert into [Words] values ( N'ほとんど', N'ほとんど', N'gần như hoàn toàn ' );
+-- insert into [Words] values ( N'大体', N'だいたい', N'phần khoảng ' );
+-- insert into [Words] values ( N'かなり', N'かなり', N'khá ' );
+-- insert into [Words] values ( N'ずいぶん', N'ずいぶん', N'đáng kể ' );
+-- insert into [Words] values ( N'けっこう', N'けっこう', N'rất ' );
+-- insert into [Words] values ( N'大分', N'ずいぶん', N'chủ ' );
+-- insert into [Words] values ( N'もっと', N'もっと', N'hơn nữa' );
+-- insert into [Words] values ( N'しっかり', N'しっかり', N'toàn bộ' );
+-- insert into [Words] values ( N'いっぱい', N'いっぱい', N'đầy' );
+-- insert into [Words] values ( N'ぎりぎり', N'ぎりぎり', N'nút' );
+-- insert into [Words] values ( N'ぴったり', N'ぴったり', N'vừa' );
+-- insert into [Words] values ( N'たいてい', N'たいてい', N'đại' );
+-- insert into [Words] values ( N'同時に', N'どうじに', N'cùng lúc' );
+-- insert into [Words] values ( N'前もって', N'まえもって', N'tiền trước' );
+-- insert into [Words] values ( N'すぐに', N'すぐに', N'ngay lập tức' );
+-- insert into [Words] values ( N'もうすぐ', N'もうすぐ', N'sắp' );
+-- insert into [Words] values ( N'突然', N'とつぜん', N'đột nhiên' );
+-- insert into [Words] values ( N'あっという間に', N'あっというまに', N'loáng một cái' );
+-- insert into [Words] values ( N'いつの間にか', N'いつのまにか', N'lúc nào không biết' );
+-- insert into [Words] values ( N'しばらく', N'しばらく', N'một chút' );
+-- insert into [Words] values ( N'ずっと', N'ずっと', N'nhất định' );
+-- insert into [Words] values ( N'相変わらず', N'あいかわらず', N'như mọi khi' );
+-- insert into [Words] values ( N'次々に', N'つぎつぎに', N'lần lượt' );
+-- insert into [Words] values ( N'どんどん', N'どんどん', N'dần dần' );
+-- insert into [Words] values ( N'ますます', N'ますます', N'càng ngày càng' );
+-- insert into [Words] values ( N'やっと', N'やっと', N'cuối đủ' );
+-- insert into [Words] values ( N'とうとう', N'とうとう', N'sau tất cả' );
+-- insert into [Words] values ( N'ついに', N'ついに', N'cuối cùng' );
+-- insert into [Words] values ( N'もちろん', N'もちろん', N'tất nhiên' );
+-- insert into [Words] values ( N'やはり', N'やはり', N'như dự tính' );
+-- insert into [Words] values ( N'きっと', N'きっと', N'nhất định' );
+-- insert into [Words] values ( N'ぜひ', N'ぜひ', N'bằng mọi (muốn)' );
+-- insert into [Words] values ( N'なるべく', N'なるべく', N'càng nhiều càng tốt' );
+-- insert into [Words] values ( N'案外', N'あんがい', N'không ngờ đến' );
+-- insert into [Words] values ( N'もしかすると・もしかしたら・もしかして', N'có', N'lẽ' );
+-- insert into [Words] values ( N'まさか', N'まさか', N'không thể' );
+-- insert into [Words] values ( N'うっかり', N'うっかり', N'ngơ để ý' );
+-- insert into [Words] values ( N'つい', N'つい', N'vô' );
+-- insert into [Words] values ( N'思わず', N'おもわず', N'tư không ngờ đến' );
+-- insert into [Words] values ( N'ほっと', N'ほっと', N'yên tâm' );
+-- insert into [Words] values ( N'いらいら', N'いらいら', N'khó giận' );
+-- insert into [Words] values ( N'のんびり', N'のんびり', N'tận hưởng' );
+-- insert into [Words] values ( N'ぐっすり', N'ぐっすり', N'say' );
+-- insert into [Words] values ( N'きちんと', N'きちんと', N'ngay ngắn' );
+-- insert into [Words] values ( N'しっかり', N'しっかり', N'kiên tin cậy' );
+-- insert into [Words] values ( N'はっきり', N'はっきり', N'rõ ràng' );
+-- insert into [Words] values ( N'じっと', N'じっと', N'kiên chằm' );
+-- insert into [Words] values ( N'そっと', N'そっと', N'nhẹ lặng' );
+-- insert into [Words] values ( N'別々に', N'べつべつに', N'riêng biệt' );
+-- insert into [Words] values ( N'それぞれ', N'それぞれ', N'lần ứng' );
+-- insert into [Words] values ( N'互いに', N'たがいに', N'lẫn nhau' );
+-- insert into [Words] values ( N'直接', N'ちょくせつ', N'trực tiếp' );
+-- insert into [Words] values ( N'本当に', N'ほんとうに', N'thật thực' );
+-- insert into [Words] values ( N'必ず', N'かならず', N'chắc chắn' );
+-- insert into [Words] values ( N'絶対に', N'ぜったいに', N'chắc chắn rồi' );
+-- insert into [Words] values ( N'特に', N'とくに', N'đặc biệt là' );
+-- insert into [Words] values ( N'ただ', N'ただ', N'chỉ' );
+-- insert into [Words] values ( N'少なくとも', N'すくなくとも', N'ít nhất' );
+-- insert into [Words] values ( N'決して', N'けっして', N'không bao giờ' );
+-- insert into [Words] values ( N'少しも', N'すこしも', N'một chút' );
+-- insert into [Words] values ( N'ちっとも', N'ちっとも', N'(không) tí gì' );
+-- insert into [Words] values ( N'全く', N'まったく', N'hoàn toàn (không)' );
+-- insert into [Words] values ( N'とても', N'とても', N'rất' );
+-- insert into [Words] values ( N'どんなに', N'どんなに', N'thế nào cũng' );
+-- insert into [Words] values ( N'どうしても', N'どうしても', N'kiểu gì cũng' );
+-- insert into [Words] values ( N'まるで', N'まるで', N'như là' );
+-- insert into [Words] values ( N'一体', N'いったい', N'nói chung' );
+-- insert into [Words] values ( N'別に', N'べつに', N'đặc biệt' );
+-- insert into [Words] values ( N'たった', N'たった', N'chỉ' );
+-- insert into [Words] values ( N'ほんの', N'ほんの', N'một chút' );
+-- insert into [Words] values ( N'それで', N'それで', N'thế thì' );
+-- insert into [Words] values ( N'そこで', N'そこで', N'tiếp theo' );
+-- insert into [Words] values ( N'そのうえ', N'そのうえ', N'hơn nữa' );
+-- insert into [Words] values ( N'また', N'また', N'nữa' );
+-- insert into [Words] values ( N'または', N'または', N'hoặc' );
+-- insert into [Words] values ( N'それとも', N'それとも', N'hoặc' );
+-- insert into [Words] values ( N'つまり', N'つまり', N'nói cách khác' );
+-- insert into [Words] values ( N'渇く', N'かわく', N'khát khát ' );
+-- insert into [Words] values ( N'嗅ぐ', N'かぐ', N'xúy ngửi ' );
+-- insert into [Words] values ( N'叩く', N'たたく', N'khấu ' );
+-- insert into [Words] values ( N'殴る', N'なぐる', N'ẩu đấm ' );
+-- insert into [Words] values ( N'ける', N'ける', N'đá ' );
+-- insert into [Words] values ( N'抱く', N'だく', N'bão ôm ' );
+-- insert into [Words] values ( N'倒れる', N'たおれる', N'đảo đổ ' );
+-- insert into [Words] values ( N'倒す', N'たおす', N'đảo làm đổ ' );
+-- insert into [Words] values ( N'起きる', N'おきる', N'thức dậy' );
+-- insert into [Words] values ( N'起こす', N'おこす', N'đánh thức' );
+-- insert into [Words] values ( N'尋ねる', N'たずねる', N'hỏi' );
+-- insert into [Words] values ( N'呼ぶ', N'よぶ', N'gọi' );
+-- insert into [Words] values ( N'叫ぶ', N'さけぶ', N'gào to' );
+-- insert into [Words] values ( N'黙る', N'だまる', N'im lặng' );
+-- insert into [Words] values ( N'飼う', N'かう', N'nuôi' );
+-- insert into [Words] values ( N'数える', N'かぞえる', N'đếm' );
+-- insert into [Words] values ( N'乾く', N'かわく', N'khô' );
+-- insert into [Words] values ( N'乾かす', N'かわかす', N'làm khô' );
+-- insert into [Words] values ( N'畳む', N'たたむ', N'gấp' );
+-- insert into [Words] values ( N'誘う', N'さそう', N'mời' );
+-- insert into [Words] values ( N'おごる', N'おごる', N'chiêu đãi' );
+-- insert into [Words] values ( N'預かる', N'あずかる', N'chăm sóc' );
+-- insert into [Words] values ( N'預ける', N'あずける', N'gửi' );
+-- insert into [Words] values ( N'決まる', N'きまる', N'được quyết định' );
+-- insert into [Words] values ( N'決める', N'きめる', N'quyết định' );
+-- insert into [Words] values ( N'写る', N'うつる', N'chụp được' );
+-- insert into [Words] values ( N'写す', N'うつす', N'chụp' );
+-- insert into [Words] values ( N'思い出す', N'おもいだす', N'tự nhớ lại' );
+-- insert into [Words] values ( N'教わる', N'おそわる', N'được dạy' );
+-- insert into [Words] values ( N'申し込む', N'もうしこむ', N'đăng ký' );
+-- insert into [Words] values ( N'断る', N'ことわる', N'từ chối' );
+-- insert into [Words] values ( N'見つかる', N'みつかる', N'được tìm thấy' );
+-- insert into [Words] values ( N'見つける', N'みつける', N'tìm thấy' );
+-- insert into [Words] values ( N'捕まる', N'つかまる', N'bị bắt' );
+-- insert into [Words] values ( N'捕まえる', N'つかまえる', N'bắt' );
+-- insert into [Words] values ( N'乗る', N'のる', N'leo lên' );
+-- insert into [Words] values ( N'乗せる', N'のせる', N'cho lên' );
+-- insert into [Words] values ( N'降りる', N'おりる', N'xuống' );
+-- insert into [Words] values ( N'降ろす', N'おろす', N'cho xuống' );
+-- insert into [Words] values ( N'直る', N'なおる', N'được sửa' );
+-- insert into [Words] values ( N'直す', N'なおす', N'sửa' );
+-- insert into [Words] values ( N'治る', N'なおる', N'hồi phục' );
+-- insert into [Words] values ( N'治す', N'なおす', N'cứu chữa' );
+-- insert into [Words] values ( N'亡くなる', N'なくなる', N'chết' );
+-- insert into [Words] values ( N'亡くす', N'なくす', N'mất' );
+-- insert into [Words] values ( N'生まれる', N'うまれる', N'được sinh ra' );
+-- insert into [Words] values ( N'生む', N'うむ', N'sinh' );
+-- insert into [Words] values ( N'出会う', N'であう', N'gặp (ngẫu nhiên)' );
+-- insert into [Words] values ( N'訪ねる', N'たずねる', N'thăm' );
+-- insert into [Words] values ( N'付き合う', N'つきあう', N'hẹn tiếp' );
+-- insert into [Words] values ( N'効く', N'きく', N'có hiệu quả' );
+-- insert into [Words] values ( N'はやる', N'はやる', N'phổ biến' );
+-- insert into [Words] values ( N'経つ', N'たつ', N'qua' );
+-- insert into [Words] values ( N'間に合う', N'まにあう', N'làm cho kịp giờ' );
+-- insert into [Words] values ( N'間に合わせる', N'まにあわせる', N'kịp giờ' );
+-- insert into [Words] values ( N'通う', N'かよう', N'đi' );
+-- insert into [Words] values ( N'込む', N'こむ', N'đông' );
+-- insert into [Words] values ( N'すれ違う', N'すれちあう', N'vi' );
+-- insert into [Words] values ( N'掛かる', N'かかる', N'được bao phủ' );
+-- insert into [Words] values ( N'掛ける', N'かける', N'bao phủ' );
+-- insert into [Words] values ( N'動く', N'うごく', N'hoạt động' );
+-- insert into [Words] values ( N'動かす', N'うごかす', N'di chuyển' );
+-- insert into [Words] values ( N'離れる', N'はなれる', N'tránh xa' );
+-- insert into [Words] values ( N'離す', N'はなす', N'tách ra' );
+-- insert into [Words] values ( N'ぶつかる', N'ぶつかる', N'bị đâm' );
+-- insert into [Words] values ( N'ぶつける', N'ぶつける', N'đâm' );
+-- insert into [Words] values ( N'こぼれる', N'こぼれる', N'bị tràn' );
+-- insert into [Words] values ( N'こぼす', N'こぼす', N'tràn' );
+-- insert into [Words] values ( N'ふく', N'ふく', N'lau' );
+-- insert into [Words] values ( N'片付く', N'かたづく', N'được dọn dẹp' );
+-- insert into [Words] values ( N'片付ける', N'かたづける', N'dọn dẹp' );
+-- insert into [Words] values ( N'包む', N'つつむ', N'bao bọc' );
+-- insert into [Words] values ( N'張る', N'はる', N'trương dán' );
+-- insert into [Words] values ( N'無くなる', N'なくなる', N'bị mất' );
+-- insert into [Words] values ( N'無くす', N'なくす', N'mất' );
+-- insert into [Words] values ( N'足りる', N'たりる', N'túc đủ' );
+-- insert into [Words] values ( N'残る', N'のこる', N'bị thừa' );
+-- insert into [Words] values ( N'残す', N'のこす', N'thừa' );
+-- insert into [Words] values ( N'腐る', N'くさる', N'thối' );
+-- insert into [Words] values ( N'むける', N'むける', N'bị lột' );
+-- insert into [Words] values ( N'むく', N'むく', N'lột' );
+-- insert into [Words] values ( N'滑る', N'すべる', N'trượt' );
+-- insert into [Words] values ( N'積もる', N'つもる', N'được tích tụ' );
+-- insert into [Words] values ( N'積む', N'つむ', N'tích lại' );
+-- insert into [Words] values ( N'空く', N'あく', N'bị thủng' );
+-- insert into [Words] values ( N'空ける', N'あける', N'thủng' );
+-- insert into [Words] values ( N'下がる', N'さがる', N'bị giảm' );
+-- insert into [Words] values ( N'下げる', N'さげる', N'giảm' );
+-- insert into [Words] values ( N'冷える', N'ひえる', N'bị lạnh' );
+-- insert into [Words] values ( N'冷やす', N'ひやす', N'làm lạnh' );
+-- insert into [Words] values ( N'冷める', N'さめる', N'bị nguội' );
+-- insert into [Words] values ( N'冷ます', N'さます', N'làm nguội' );
+-- insert into [Words] values ( N'燃える', N'もえる', N'bị cháy' );
+-- insert into [Words] values ( N'燃やす', N'もやす', N'đốt' );
+-- insert into [Words] values ( N'沸く', N'わく', N'sôi' );
+-- insert into [Words] values ( N'沸かす', N'わかす', N'đun sôi' );
+-- insert into [Words] values ( N'鳴る', N'なる', N'kêu' );
+-- insert into [Words] values ( N'鳴らす', N'ならす', N'làm kêu' );
+-- insert into [Words] values ( N'役立つ', N'やくだつ', N'hữu ích' );
+-- insert into [Words] values ( N'役立てる', N'やくだてる', N'được sử dụng' );
+-- insert into [Words] values ( N'飾り', N'かざり', N'trang trí' );
+-- insert into [Words] values ( N'遊び', N'あそび', N'chơi' );
+-- insert into [Words] values ( N'集まり', N'あつまり', N'tập hợp' );
+-- insert into [Words] values ( N'教え', N'おしえ', N'dạy' );
+-- insert into [Words] values ( N'踊り', N'おどり', N'nhảy' );
+-- insert into [Words] values ( N'思い', N'おもい', N'nghĩ' );
+-- insert into [Words] values ( N'考え', N'かんがえ', N'suy nghĩ' );
+-- insert into [Words] values ( N'片づけ', N'かたづけ', N'ngăn nắp' );
+-- insert into [Words] values ( N'手伝い', N'てつだい', N'giúp đỡ' );
+-- insert into [Words] values ( N'働き', N'はたらき', N'hoạt động' );
+-- insert into [Words] values ( N'決まり', N'きまり', N'luật lệ' );
+-- insert into [Words] values ( N'騒ぎ', N'さわぎ', N'ồn ào' );
+-- insert into [Words] values ( N'知らせ', N'しらせ', N'tin báo' );
+-- insert into [Words] values ( N'頼み', N'たのみ', N'yêu cầu' );
+-- insert into [Words] values ( N'疲れ', N'つかれ', N'vất mỏi' );
+-- insert into [Words] values ( N'違い', N'ちがい', N'khác biệt' );
+-- insert into [Words] values ( N'始め', N'はじめ', N'khởi đầu' );
+-- insert into [Words] values ( N'続き', N'つづき', N'tiếp tục' );
+-- insert into [Words] values ( N'暮れ', N'くれ', N'cuối ngày (mùa, năm)' );
+-- insert into [Words] values ( N'行き', N'いき', N'đi' );
+-- insert into [Words] values ( N'帰り', N'かえり', N'trở về' );
+-- insert into [Words] values ( N'急ぎ', N'いそぎ', N'khẩn cấp' );
+-- insert into [Words] values ( N'遅れ', N'おくれ', N'gián đoạn' );
+-- insert into [Words] values ( N'貸し', N'かし', N'cho mượn' );
+-- insert into [Words] values ( N'借り', N'かり', N'mượn' );
+-- insert into [Words] values ( N'勝ち', N'かち', N'thắng' );
+-- insert into [Words] values ( N'負け', N'まけ', N'thua' );
+-- insert into [Words] values ( N'迎え', N'むかえ', N'đón' );
+-- insert into [Words] values ( N'始まり', N'はじまり', N'bắt đầu' );
+-- insert into [Words] values ( N'終わり', N'おわり', N'kết thúc' );
+-- insert into [Words] values ( N'戻り', N'もどり', N'trở lại' );
+-- insert into [Words] values ( N'別れ', N'わかれ', N'chia ly' );
+-- insert into [Words] values ( N'喜び', N'よろこび', N'hớn hở' );
+-- insert into [Words] values ( N'楽しみ', N'たのしみ', N'sung sướng' );
+-- insert into [Words] values ( N'笑い', N'わらい', N'cười' );
+-- insert into [Words] values ( N'驚き', N'おどろき', N'ngạc nhiên' );
+-- insert into [Words] values ( N'怒り', N'いかり', N'giận dữ' );
+-- insert into [Words] values ( N'悲しみ', N'かたしみ', N'buồn bã' );
+-- insert into [Words] values ( N'温まる', N'あたたまる', N'trở nên ấm hơn' );
+-- insert into [Words] values ( N'温める', N'あたためる', N'làm ấm' );
+-- insert into [Words] values ( N'高まる', N'たかまる', N'cao lên' );
+-- insert into [Words] values ( N'高める', N'たかめる', N'làm cao lên' );
+-- insert into [Words] values ( N'強まる', N'つよまる', N'mạnh lên' );
+-- insert into [Words] values ( N'強める', N'つよめる', N'làm mạnh lên' );
+-- insert into [Words] values ( N'弱まる', N'よわまる', N'yếu đi' );
+-- insert into [Words] values ( N'弱める', N'よわめる', N'làm yếu đi' );
+-- insert into [Words] values ( N'広まる', N'ひろまる', N'rộng ra' );
+-- insert into [Words] values ( N'広める', N'ひろめる', N'làm rộng ra' );
+-- insert into [Words] values ( N'深まる', N'ふかまる', N'sâu hơn' );
+-- insert into [Words] values ( N'深める', N'ふかめる', N'làm sâu thêm' );
+-- insert into [Words] values ( N'世話', N'せわ', N'chăm sóc' );
+-- insert into [Words] values ( N'家庭', N'かてい', N'gia đình' );
+-- insert into [Words] values ( N'協力', N'きょうりょく', N'hiệp lực' );
+-- insert into [Words] values ( N'感謝', N'かんしゃ', N'cảm tạ' );
+-- insert into [Words] values ( N'お礼', N'おれい', N'đáp lễ' );
+-- insert into [Words] values ( N'お詫び', N'おわび', N'xin lỗi' );
+-- insert into [Words] values ( N'おじぎ', N'おじぎ', N'cúi chào' );
+-- insert into [Words] values ( N'握手', N'あくしゅ', N'bắt tay' );
+-- insert into [Words] values ( N'いじわる', N'いじわる', N'xấu bụng' );
+-- insert into [Words] values ( N'いたずら', N'いたずら', N'nghịch ngợm' );
+-- insert into [Words] values ( N'届く', N'とどく', N'được giao đến' );
+-- insert into [Words] values ( N'届ける', N'とどける', N'giao đến' );
+-- insert into [Words] values ( N'かく', N'かく', N'gãi' );
+-- insert into [Words] values ( N'つかむ', N'つかむ', N'nắm bắt' );
+-- insert into [Words] values ( N'握る', N'にぎる', N'nắm chặt' );
+-- insert into [Words] values ( N'抑える', N'おさえる', N'giữ' );
+-- insert into [Words] values ( N'近づく', N'ちかづく', N'lại gần' );
+-- insert into [Words] values ( N'近づける', N'ちかづける', N'mang đến gần' );
+-- insert into [Words] values ( N'合う', N'あう', N'gặp' );
+-- insert into [Words] values ( N'合わせる', N'あわせる', N'tập lực' );
+-- insert into [Words] values ( N'当たる', N'あたる', N'bị đánh' );
+-- insert into [Words] values ( N'当てる', N'あてる', N'đánh' );
+-- insert into [Words] values ( N'比べる', N'くらべる', N'so sánh' );
+-- insert into [Words] values ( N'似合う', N'にあう', N'hợp' );
+-- insert into [Words] values ( N'似る', N'にる', N'giống' );
+-- insert into [Words] values ( N'似せる', N'にせる', N'bắt chước' );
+-- insert into [Words] values ( N'分かれる', N'わかれる', N'được chia ra' );
+-- insert into [Words] values ( N'分ける', N'わける', N'chia' );
+-- insert into [Words] values ( N'足す', N'たす', N'thêm vào' );
+-- insert into [Words] values ( N'引く', N'ひく', N'dẫn, kéo' );
+-- insert into [Words] values ( N'増える', N'ふえる', N'tăng lên' );
+-- insert into [Words] values ( N'増やす', N'ふやす', N'làm tăng lên' );
+-- insert into [Words] values ( N'減る', N'へる', N'giảm xuống' );
+-- insert into [Words] values ( N'減らす', N'へらす', N'làm giảm xuống' );
+-- insert into [Words] values ( N'変わる', N'かわる', N'thay đổi' );
+-- insert into [Words] values ( N'変える', N'かえる', N'làm thay đổi' );
+-- insert into [Words] values ( N'代わる・替わる・換わる', N'かわる', N'thay' );
+-- insert into [Words] values ( N'代える・替える・換える', N'かえる', N'đổi' );
+-- insert into [Words] values ( N'返る', N'かえる', N'được trả lại' );
+-- insert into [Words] values ( N'返す', N'かえす', N'trả lại' );
+-- insert into [Words] values ( N'譲る', N'ゆずる', N'nhường' );
+-- insert into [Words] values ( N'助かる', N'たすかる', N'được giúp' );
+-- insert into [Words] values ( N'助ける', N'たすける', N'giúp' );
+-- insert into [Words] values ( N'いじめる', N'いじめる', N'bắt nạt' );
+-- insert into [Words] values ( N'だまる', N'だまる', N'lừa' );
+-- insert into [Words] values ( N'盗む', N'ぬすむ', N'lấy cắp' );
+-- insert into [Words] values ( N'刺さる', N'ささる', N'bị đâm' );
+-- insert into [Words] values ( N'刺す', N'さす', N'đâm' );
+-- insert into [Words] values ( N'殺す', N'ころす', N'giết' );
+-- insert into [Words] values ( N'隠れる', N'かくれる', N'ẩn' );
+-- insert into [Words] values ( N'隠す', N'かくす', N'che giấu' );
+-- insert into [Words] values ( N'埋まる', N'うまる', N'bị chôn' );
+-- insert into [Words] values ( N'埋める', N'うめる', N'chôn' );
+-- insert into [Words] values ( N'囲む', N'かこむ', N'vây quanh' );
+-- insert into [Words] values ( N'詰まる', N'つまる', N'tắc, kẹt' );
+-- insert into [Words] values ( N'詰める', N'つめる', N'chôn, lấp, cắt giảm, ' );
+-- insert into [Words] values ( N'開く', N'ひらく', N'mở' );
+-- insert into [Words] values ( N'閉じる', N'とじる', N'đóng' );
+-- insert into [Words] values ( N'飛ぶ', N'とぶ', N'bay' );
+-- insert into [Words] values ( N'飛ばす', N'とばす', N'cho bay' );
+-- insert into [Words] values ( N'振る', N'ふる', N'chỉ định, đóng vai' );
+-- insert into [Words] values ( N'めくる', N'めくる', N'lật lên' );
+-- insert into [Words] values ( N'見かける', N'みかける', N'tình cờ thấy' );
+-- insert into [Words] values ( N'確かめる', N'たしかめる', N'kiểm tra lại' );
+-- insert into [Words] values ( N'試す', N'ためす', N'thử' );
+-- insert into [Words] values ( N'繰り返す', N'くりかえす', N'lặp lại' );
+-- insert into [Words] values ( N'訳す', N'やくす', N'dịch' );
+-- insert into [Words] values ( N'行う', N'おこなう', N'tổ chức' );
+-- insert into [Words] values ( N'間違う', N'まちがう', N'bị sai' );
+-- insert into [Words] values ( N'間違える', N'まちがえる', N'làm sai' );
+-- insert into [Words] values ( N'許す', N'ゆるす', N'tha phép' );
+-- insert into [Words] values ( N'慣れる', N'なれる', N'quen' );
+-- insert into [Words] values ( N'慣らす', N'ならす', N'thuần hóa, làm cho quen' );
+-- insert into [Words] values ( N'立つ', N'たつ', N'đứng' );
+-- insert into [Words] values ( N'立てる', N'たてる', N'dựng lên' );
+-- insert into [Words] values ( N'建つ', N'たつ', N'được xây' );
+-- insert into [Words] values ( N'建てる', N'たてる', N'xây' );
+-- insert into [Words] values ( N'育つ', N'そだつ', N'được nuôi dạy' );
+-- insert into [Words] values ( N'育てる', N'そだてる', N'nuôi dạy' );
+-- insert into [Words] values ( N'生える', N'はえる', N'mọc' );
+-- insert into [Words] values ( N'生やす', N'はやす', N'nuôi(râu)' );
+-- insert into [Words] values ( N'汚れる', N'よごれる', N'bị bẩn' );
+-- insert into [Words] values ( N'汚す', N'よごす', N'làm bẩn' );
+-- insert into [Words] values ( N'壊れる', N'こわれる', N'bị hỏng' );
+-- insert into [Words] values ( N'壊す', N'こわす', N'làm hỏng' );
+-- insert into [Words] values ( N'割れる', N'われる', N'bị vỡ' );
+-- insert into [Words] values ( N'割る', N'わる', N'làm vỡ' );
+-- insert into [Words] values ( N'折れる', N'おれる', N'bị gãy' );
+-- insert into [Words] values ( N'折る', N'おる', N'làm gãy' );
+-- insert into [Words] values ( N'破れる', N'やぶれる', N'bị rách' );
+-- insert into [Words] values ( N'破る', N'やぶる', N'xé rách' );
+-- insert into [Words] values ( N'曲がる', N'まがる', N'bị uốn cong' );
+-- insert into [Words] values ( N'曲げる', N'まげる', N'uốn cong' );
+-- insert into [Words] values ( N'外れる', N'はずれる', N'bị rời ra' );
+-- insert into [Words] values ( N'外す', N'はずす', N'tách ra' );
+-- insert into [Words] values ( N'揺れる', N'ゆれる', N'bị rung' );
+-- insert into [Words] values ( N'揺らす', N'ゆらす', N'đung đưa' );
+-- insert into [Words] values ( N'流れる', N'ながれる', N'chảy' );
+-- insert into [Words] values ( N'流す', N'ながす', N'cho chảy' );
+-- insert into [Words] values ( N'濡れる', N'ぬれる', N'bị ướt' );
+-- insert into [Words] values ( N'濡らす', N'ぬらす', N'làm ướt' );
+-- insert into [Words] values ( N'迷う', N'まよう', N'lạc đường' );
+-- insert into [Words] values ( N'悩む', N'なやむ', N'băn khoăn' );
+-- insert into [Words] values ( N'慌てる', N'あわてる', N'vội vàng' );
+-- insert into [Words] values ( N'覚める', N'さめる', N'thức dậy' );
+-- insert into [Words] values ( N'覚ます', N'さます', N'mở' );
+-- insert into [Words] values ( N'眠る', N'ねむる', N'ngủ' );
+-- insert into [Words] values ( N'祈る', N'いのる', N'cầu nguyện' );
+-- insert into [Words] values ( N'祝う', N'いわう', N'ăn mừng' );
+-- insert into [Words] values ( N'感じる', N'かんじる', N'cảm thấy' );
+-- insert into [Words] values ( N'上る', N'のぼる', N'leo lên' );
+-- insert into [Words] values ( N'下る', N'くだる', N'đi xuống' );
+-- insert into [Words] values ( N'進む', N'すすむ', N'tiến lên' );
+-- insert into [Words] values ( N'進める', N'すすめる', N'làm cho tiến lên' );
+-- insert into [Words] values ( N'通る', N'とおる', N'đi ngang qua' );
+-- insert into [Words] values ( N'通す', N'とおす', N'xuyên qua' );
+-- insert into [Words] values ( N'超える・越える', N'こえる', N'vượt qua' );
+-- insert into [Words] values ( N'過ぎる', N'すぎる', N'qua' );
+-- insert into [Words] values ( N'過ごす', N'すごす', N'sử dụng(thời gian)' );
+-- insert into [Words] values ( N'移る', N'うつる', N'được chuyển' );
+-- insert into [Words] values ( N'移す', N'うつす', N'chuyển' );
+-- insert into [Words] values ( N'連れる', N'つれる', N'dẫn đi' );
+-- insert into [Words] values ( N'寄る', N'よる', N'ghé gần' );
+-- insert into [Words] values ( N'寄せる', N'よせる', N'ghé vào' );
+-- insert into [Words] values ( N'与える', N'あたえる', N'cấp' );
+-- insert into [Words] values ( N'得る', N'える', N'đạt được' );
+-- insert into [Words] values ( N'向く', N'むく', N'hướng đến, thích hợp với' );
+-- insert into [Words] values ( N'向ける', N'むける', N'hướng về phía' );
+-- insert into [Words] values ( N'勧める', N'すすめる', N'gợi ý' );
+-- insert into [Words] values ( N'薦める', N'すすめる', N'khuyến khích' );
+-- insert into [Words] values ( N'任せる', N'まかせる', N'hết sức, dốc lòng/phó thác' );
+-- insert into [Words] values ( N'守る', N'まもる', N'bảo vệ' );
+-- insert into [Words] values ( N'争う', N'あらそう', N'gây gỗ, tranh giành' );
+-- insert into [Words] values ( N'臨む', N'のぞむ', N'ước' );
+-- insert into [Words] values ( N'信じる', N'しんじる', N'tin tưởng' );
+-- insert into [Words] values ( N'通じる', N'つうじる', N'dẫn đến, hiểu rõ' );
+-- insert into [Words] values ( N'飽きる', N'あきる', N'chán, mệt mỏi, không hứng thú' );
+-- insert into [Words] values ( N'思いつく', N'おもいつく', N'chợt nghĩ ra' );
+-- insert into [Words] values ( N'思いやる', N'おもいやる', N'cảm thông, ân cần' );
+-- insert into [Words] values ( N'熱中する', N'ねっちゅうする', N'hăng say, nghiện' );
+-- insert into [Words] values ( N'暮らす', N'くらす', N'sống' );
+-- insert into [Words] values ( N'巻く', N'まく', N'quấn' );
+-- insert into [Words] values ( N'結ぶ', N'むすぶ', N'kết lại, buộc, nối' );
+-- insert into [Words] values ( N'済む', N'すむ', N'kết thúc' );
+-- insert into [Words] values ( N'すませる・済ます', N'hoàn', N'tất' );
+-- insert into [Words] values ( N'出来る', N'できる', N'có thể làm được' );
+-- insert into [Words] values ( N'切れる', N'きれる', N'bị đứt, bị gãy, hết hạn' );
+-- insert into [Words] values ( N'切らす', N'きらす', N'dùng hết, hết hàng' );
+-- insert into [Words] values ( N'伝わる', N'つたわる', N'được truyền tải' );
+-- insert into [Words] values ( N'伝える', N'つたえる', N'truyền tải' );
+-- insert into [Words] values ( N'続く', N'つづく', N'tiếp sau' );
+-- insert into [Words] values ( N'続ける', N'つづける', N'liên tiếp' );
+-- insert into [Words] values ( N'つながる', N'つながる', N'có liên hệ' );
+-- insert into [Words] values ( N'つなぐ', N'つなぐ', N'kết nối' );
+-- insert into [Words] values ( N'つなげる', N'つなげる', N'kết chặt thêm' );
+-- insert into [Words] values ( N'伸びる', N'のびる', N'(tự) lớn ra' );
+-- insert into [Words] values ( N'伸ばす', N'のばす', N'kéo ra' );
+-- insert into [Words] values ( N'延びる', N'のびる', N'bị trì kéo dài' );
+-- insert into [Words] values ( N'延ばす', N'のばす', N'trì dài' );
+-- insert into [Words] values ( N'重なる', N'かさなる', N'trùng với, chồng chất' );
+-- insert into [Words] values ( N'重ねる', N'かさねる', N'chồng lên' );
+-- insert into [Words] values ( N'広がる', N'ひろがる', N'(bị) mở rộng ra' );
+-- insert into [Words] values ( N'広げる', N'ひろげる', N'mở rộng ra' );
+-- insert into [Words] values ( N'載る', N'のる', N'được công bố' );
+-- insert into [Words] values ( N'載せる', N'のせる', N'công bố' );
+-- insert into [Words] values ( N'揃う', N'そろう', N'được chuẩn bị sẵn sàng' );
+-- insert into [Words] values ( N'揃える', N'そろえる', N'thu thập, chuẩn bị sẵn sàng' );
+-- insert into [Words] values ( N'まとまる', N'まとまる', N'được sắp xếp' );
+-- insert into [Words] values ( N'まとめる', N'まとめる', N'sắp xếp vào trật tự' );
+-- insert into [Words] values ( N'付く', N'つく', N'dính' );
+-- insert into [Words] values ( N'付ける', N'つける', N'dính vào' );
+-- insert into [Words] values ( N'たまる', N'たまる', N'được tiết kiệm' );
+-- insert into [Words] values ( N'ためる', N'ためる', N'tiết kiệm' );
+-- insert into [Words] values ( N'交じる・混じる', N'まじる', N'giao vào' );
+-- insert into [Words] values ( N'交ざる・混ざる', N'まざる', N'được trộn lẫn' );
+-- insert into [Words] values ( N'交ぜる・混ぜる', N'まぜる', N'trộn vào' );
+-- insert into [Words] values ( N'解ける・溶ける', N'とける', N'bị tuột, chảy ra' );
+-- insert into [Words] values ( N'解く・溶く', N'とく', N'làm tuột, chảy ra' );
+-- insert into [Words] values ( N'含む', N'ふくむ', N'gồm' );
+-- insert into [Words] values ( N'含める', N'ふくめる', N'bao gồm' );
+-- insert into [Words] values ( N'抜ける', N'ぬける', N'rút ra, rút lui, rụng' );
+-- insert into [Words] values ( N'抜く', N'ぬく', N'lấy ra, rút ra' );
+-- insert into [Words] values ( N'現れる', N'あらわれる', N'xuất hiện, lộ diện' );
+-- insert into [Words] values ( N'現す', N'あらわす', N'thể hiện ra, làm xuất ra' );
+-- insert into [Words] values ( N'表れる', N'あらわれる', N'biểu hiện (trên mặt)' );
+-- insert into [Words] values ( N'表す', N'あらわす', N'biểu diện' );
+-- insert into [Words] values ( N'散る', N'ちる', N'bị héo, tàn' );
+-- insert into [Words] values ( N'散らす', N'ちらす', N'tàn' );
+-- insert into [Words] values ( N'明ける', N'あける', N'rạng sáng, hé lộ' );
+-- insert into [Words] values ( N'差す', N'さす', N'(mặt trời) chiếu' );
+-- insert into [Words] values ( N'炊ける', N'たける', N'được nấu' );
+-- insert into [Words] values ( N'炊く', N'たく', N'nấu' );
+-- insert into [Words] values ( N'煮える', N'にえる', N'được ninh' );
+-- insert into [Words] values ( N'煮る', N'にる', N'ninh' );
+-- insert into [Words] values ( N'炒める', N'いためる', N'rán' );
+-- insert into [Words] values ( N'焼ける', N'やける', N'được nướng' );
+-- insert into [Words] values ( N'焼く', N'やく', N'nướng' );
+-- insert into [Words] values ( N'ゆでる', N'ゆでる', N'luộc' );
+-- insert into [Words] values ( N'揚げる', N'あげる', N'rán ngập' );
+-- insert into [Words] values ( N'蒸す', N'むす', N'hấp' );
